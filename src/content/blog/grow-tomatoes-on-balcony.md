@@ -45,6 +45,8 @@ No garden required.
 
 ## Step 1: Choose the Right Tomato Variety
 
+![Best balcony tomato varieties](/images/balcony-2-variety.jpg)
+
 This is where most beginners succeed or fail.
 
 Some tomato plants stay compact and manageable.
