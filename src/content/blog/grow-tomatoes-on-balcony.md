@@ -88,6 +88,8 @@ For maximum harvests, indeterminate varieties can be fantastic if you have enoug
 
 ## Step 2: Bigger Pots Mean Bigger Harvests
 
+![Large tomato containers on a balcony](/images/balcony-3-container.jpg)
+
 Here's a simple rule:
 
 **When in doubt, choose the bigger pot.**
@@ -118,6 +120,8 @@ Roots sitting in water quickly rot, and once that happens, recovery is difficult
 
 ## Step 3: Use the Right Potting Mix
 
+![Normal planting vs deep planting comparison](/images/balcony-4-deep-planting.jpg)
+
 One of the biggest mistakes beginners make is filling containers with garden soil.
 
 Don't.
@@ -141,6 +145,8 @@ Your future harvest will thank you.
 ---
 
 ## Step 4: Find the Sunniest Spot Available
+
+![Beautiful south-facing balcony packed with tomato plants](/images/balcony-4-sunlight.jpg)
 
 Tomatoes are sunshine addicts.
 
@@ -173,6 +179,8 @@ If your balcony is exposed, place pots against a wall or install simple wind pro
 ---
 
 ## Step 5: Master Watering
+
+![Checking tomato soil moisture with finger](/images/balcony-6-watering.jpg)
 
 If there is one secret to growing tomatoes successfully, it's this:
 
@@ -218,6 +226,8 @@ Dry leaves stay healthier.
 
 ## Step 6: Feed Your Tomato Plants
 
+
+
 Tomatoes are hungry plants.
 
 Very hungry.
@@ -251,6 +261,8 @@ If your plant looks like a jungle but isn't producing tomatoes, switch to a toma
 ---
 
 ## Step 7: Support Your Plants Early
+
+
 
 Tomato plants are a bit like enthusiastic puppies.
 
@@ -286,6 +298,8 @@ Plants need room to grow.
 
 ## Step 8: Prune for Better Results
 
+![Close-up of tomato suckers being pinched out](/images/balcony-7-pruning.jpg)
+
 Pruning sounds complicated.
 
 It isn't.
@@ -305,6 +319,8 @@ For balcony gardeners with limited space, pruning can make a huge difference.
 ---
 
 ## Step 9: Help Pollination Along
+
+![Electric toothbrush vibrating tomato flower](/images/balcony-8-pollination.jpg)
 
 Tomatoes are self-pollinating.
 
@@ -329,6 +345,11 @@ It works surprisingly well.
 ---
 
 ## Common Balcony Tomato Problems
+
+![Blossom end rot
+Yellow leaves
+Fruit splitting
+Blight](/images/balcony-9-problems.jpg)
 
 ### Yellow Leaves
 
@@ -372,6 +393,8 @@ Prevent it by:
 
 ## Harvesting Your Tomatoes
 
+![A basket full of harvested tomatoes](/images/balcony-10-basket.jpg)
+
 This is the best part.
 
 Wait until tomatoes are fully coloured and slightly soft to the touch.
@@ -395,6 +418,8 @@ The difference is remarkable.
 ---
 
 ## Final Thoughts
+
+![A sliced tomato next to fresh sourdough bread](/images/balcony-11-final-hero.jpg)
 
 Growing tomatoes on a balcony proves that you don't need acres of land to grow amazing food.
 
