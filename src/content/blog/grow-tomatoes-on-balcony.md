@@ -120,7 +120,7 @@ Roots sitting in water quickly rot, and once that happens, recovery is difficult
 
 ## Step 3: Use the Right Potting Mix
 
-
+![Tomato soil is being prepared](/images/balcony-14-soil.jpg)
 
 One of the biggest mistakes beginners make is filling containers with garden soil.
 
@@ -128,17 +128,41 @@ Don't.
 
 Garden soil becomes compacted in pots, reducing airflow around roots and increasing disease problems.
 
-Instead, use:
+The Perfect Potting Mix for Balcony Tomatoes
 
-* Quality potting compost
-* Container growing mix
-* Compost-enriched potting soil
+You can buy ready-made tomato compost, but if you want the ideal mix, use:
 
-For even better results, mix in:
+60% high-quality peat-free potting compost
+20% homemade compost or well-rotted manure
+10% perlite (for drainage and aeration)
+10% coconut coir or leaf mould (to retain moisture)
 
-* Compost
-* Well-rotted manure
-* Slow-release tomato fertiliser
+For every 10 litres of mix, add:
+
+1 handful of slow-release tomato fertiliser
+1 handful of worm castings (optional but excellent)
+A small handful of garden lime if your compost is acidic.
+
+Why this mix works?
+
+Compost provides nutrients.
+Perlite prevents compaction and improves drainage.
+Coir helps keep moisture levels stable.
+Slow-release fertiliser feeds the plant for weeks.
+
+Beginner shortcut
+
+If you don't want to mix your own, simply buy:
+
+Premium multi-purpose compost.
+Perlite.
+Tomato fertiliser.
+
+Mix:
+
+4 parts compost : 1 part perlite
+
+and feed with liquid tomato fertiliser once flowers appear.
 
 Your future harvest will thank you.
 
