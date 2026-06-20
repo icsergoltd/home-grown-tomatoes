@@ -1,0 +1,73 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('blog');
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title="Growing Guides - Home Grown Tomatoes" description="Tomato growing guides for home gardeners." />
+	</head>
+	<body>
+		<Header />
+
+		<main class="page">
+			<h1>Growing Guides</h1>
+			<p>Step-by-step tomato growing guides for beginners and experienced gardeners alike.</p>
+
+			<div class="guide-list">
+				{posts.map((post) => (
+					<a class="guide-card" href={`/blog/${post.id.replace('.md', '')}/`}>
+						<h2>{post.data.title}</h2>
+						<p>{post.data.description}</p>
+					</a>
+				))}
+			</div>
+		</main>
+
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.page {
+		max-width: 1100px;
+		margin: 80px auto;
+		padding: 20px;
+	}
+
+	.guide-list {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 24px;
+		margin-top: 40px;
+	}
+
+	.guide-card {
+		display: block;
+		background: white;
+		padding: 24px;
+		border-radius: 12px;
+		text-decoration: none;
+		color: #102810;
+		box-shadow: 0 3px 14px rgba(0, 0, 0, 0.1);
+	}
+
+	.guide-card:hover {
+		color: #456b17;
+		transform: translateY(-2px);
+	}
+
+	.guide-card h2 {
+		font-size: 1.5rem;
+		margin-bottom: 10px;
+	}
+
+	.guide-card p {
+		color: #4b4b4b;
+	}
+</style>

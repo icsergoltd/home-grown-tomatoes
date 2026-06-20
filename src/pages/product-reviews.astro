@@ -1,0 +1,43 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title="Product Reviews - Home Grown Tomatoes" description="Gardening product reviews for tomato growers." />
+	</head>
+	<body>
+		<Header />
+
+		<main class="page">
+			<h1>Product Reviews</h1>
+			<p>Useful gardening products that can help you grow healthier tomato plants.</p>
+
+			<h2>Review Categories</h2>
+
+			<ul>
+				<li>Tomato Fertilisers</li>
+				<li>Tomato Cages and Supports</li>
+				<li>Grow Lights</li>
+				<li>Watering Systems</li>
+				<li>Greenhouses and Covers</li>
+				<li>Gardening Tools</li>
+			</ul>
+
+			<p>We focus on practical products that are useful for real home growers.</p>
+		</main>
+
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.page {
+		max-width: 1000px;
+		margin: 80px auto;
+		padding: 20px;
+	}
+</style>

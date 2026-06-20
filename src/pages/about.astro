@@ -1,0 +1,43 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title="About - Home Grown Tomatoes" description="About Home Grown Tomatoes." />
+	</head>
+	<body>
+		<Header />
+
+		<main class="page">
+			<h1>About Home Grown Tomatoes</h1>
+
+			<p>
+				Home Grown Tomatoes is a simple gardening website for people who want to grow better tomatoes at home.
+			</p>
+
+			<p>
+				Whether you grow tomatoes in pots, raised beds, greenhouses, or directly in the ground, this site is here to give you clear and practical advice.
+			</p>
+
+			<h2>Our Goal</h2>
+
+			<p>
+				Our goal is to help home gardeners grow healthier plants, avoid common problems, and enjoy better harvests.
+			</p>
+		</main>
+
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.page {
+		max-width: 1000px;
+		margin: 80px auto;
+		padding: 20px;
+	}
+</style>

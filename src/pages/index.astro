@@ -1,0 +1,78 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+
+		<main>
+			<section class="hero">
+				<div class="hero-content">
+					<h1>Grow Better<br />Tomatoes at Home</h1>
+					<div class="divider">🌱</div>
+					<p>Simple, practical advice to help you grow delicious, healthy tomatoes in any space.</p>
+					<a class="hero-button" href="/growing-guides">Start Growing Today</a>
+				</div>
+			</section>
+
+			<section class="popular">
+				<div class="section-header">
+					<h2>Most Popular Articles</h2>
+					<a href="/growing-guides">View all articles →</a>
+				</div>
+
+				<div class="article-grid">
+					<article class="card">
+						<img src="/images/tomatoes-pots.jpg" alt="Tomatoes growing in pots" />
+						<div class="card-body">
+							<span>Growing Guides</span>
+							<h3>How to Grow Tomatoes in Pots</h3>
+							<p>Everything you need to know to grow healthy tomatoes in containers.</p>
+							<a href="/blog">Read more →</a>
+						</div>
+					</article>
+
+					<article class="card">
+						<img src="/images/yellow-leaf.jpg" alt="Yellow tomato leaf" />
+						<div class="card-body">
+							<span>Tomato Problems</span>
+							<h3>Why Are My Tomato Leaves Turning Yellow?</h3>
+							<p>Causes, solutions and prevention tips to restore plant health.</p>
+							<a href="/blog">Read more →</a>
+						</div>
+					</article>
+
+					<article class="card">
+						<img src="/images/raised-beds.jpg" alt="Tomatoes growing in raised beds" />
+						<div class="card-body">
+							<span>Growing Guides</span>
+							<h3>Growing Tomatoes in Raised Beds</h3>
+							<p>Step-by-step guide to planting, feeding and caring for tomatoes.</p>
+							<a href="/blog">Read more →</a>
+						</div>
+					</article>
+
+					<article class="card">
+						<img src="/images/tomato-varieties.jpg" alt="Different tomato varieties" />
+						<div class="card-body">
+							<span>Varieties</span>
+							<h3>Best Tomato Varieties for Home Gardens</h3>
+							<p>Our favourite tomato varieties for flavour, yield and easy growing.</p>
+							<a href="/blog">Read more →</a>
+						</div>
+					</article>
+				</div>
+			</section>
+		</main>
+
+		<Footer />
+	</body>
+</html>
