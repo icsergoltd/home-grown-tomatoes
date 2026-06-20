@@ -120,7 +120,7 @@ Roots sitting in water quickly rot, and once that happens, recovery is difficult
 
 ## Step 3: Use the Right Potting Mix
 
-![Normal planting vs deep planting comparison](/images/balcony-4-deep-planting.jpg)
+
 
 One of the biggest mistakes beginners make is filling containers with garden soil.
 
@@ -226,7 +226,7 @@ Dry leaves stay healthier.
 
 ## Step 6: Feed Your Tomato Plants
 
-
+![Tomato plant being given fertilizer](/images/balcony-13-feeding.jpg)
 
 Tomatoes are hungry plants.
 
@@ -262,7 +262,7 @@ If your plant looks like a jungle but isn't producing tomatoes, switch to a toma
 
 ## Step 7: Support Your Plants Early
 
-
+![Tomato plants being supported by trellises](/images/balcony-12-support.jpg)
 
 Tomato plants are a bit like enthusiastic puppies.
 
