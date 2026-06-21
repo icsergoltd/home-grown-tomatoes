@@ -2,7 +2,7 @@
 title: "How to Grow Tomatoes on a Balcony: The Complete Beginner's Guide to Big Harvests in Small Spaces"
 description: "Learn how to grow delicious tomatoes on a balcony, patio, or small outdoor space. Discover the best tomato varieties, pots, soil, watering tips, and secrets to a huge harvest."
 pubDate: 2026-06-20
-heroImage: "../../assets/balcony-tomatoes-hero.jpg"
+heroImage: "/images/balcony-tomatoes-hero.jpg"
 author: "Home Grown Tomatoes"
 tags: ["tomatoes", "balcony gardening", "container gardening"]
 order: 1
