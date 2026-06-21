@@ -7,7 +7,7 @@ heroImage: "/images/pots-1-hero.png"
 author: "Home Grown Tomatoes"
 tags: ["tomatoes", "container gardening", "potted tomatoes"]
 order: 2
---------
+---
 
 **Big tomato harvests can start in one simple pot.**
 
