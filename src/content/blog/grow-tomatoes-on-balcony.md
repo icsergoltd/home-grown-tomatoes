@@ -5,6 +5,7 @@ pubDate: 2026-06-20
 heroImage: "../../assets/balcony-tomatoes-hero.jpg"
 author: "Home Grown Tomatoes"
 tags: ["tomatoes", "balcony gardening", "container gardening"]
+order: 1
 ---
 
 **Small balcony. Big harvest.**
