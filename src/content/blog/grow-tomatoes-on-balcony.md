@@ -2,7 +2,7 @@
 title: "How to Grow Tomatoes on a Balcony: The Complete Beginner's Guide to Big Harvests in Small Spaces"
 description: "Learn how to grow delicious tomatoes on a balcony, patio, or small outdoor space. Discover the best tomato varieties, pots, soil, watering tips, and secrets to a huge harvest."
 pubDate: 2026-06-20
-heroImage: "/images/balcony-tomatoes-hero.jpg"
+heroImage: "/images/balcony-tomatoes-hero.png"
 author: "Home Grown Tomatoes"
 tags: ["tomatoes", "balcony gardening", "container gardening"]
 order: 1
@@ -46,7 +46,7 @@ No garden required.
 
 ## Step 1: Choose the Right Tomato Variety
 
-![Best balcony tomato varieties](/images/balcony-2-variety.jpg)
+![Best balcony tomato varieties](/images/balcony-2-variety.png)
 
 This is where most beginners succeed or fail.
 
@@ -89,7 +89,7 @@ For maximum harvests, indeterminate varieties can be fantastic if you have enoug
 
 ## Step 2: Bigger Pots Mean Bigger Harvests
 
-![Large tomato containers on a balcony](/images/balcony-3-container.jpg)
+![Large tomato containers on a balcony](/images/balcony-3-container.png)
 
 Here's a simple rule:
 
@@ -121,7 +121,7 @@ Roots sitting in water quickly rot, and once that happens, recovery is difficult
 
 ## Step 3: Use the Right Potting Mix
 
-![Tomato soil is being prepared](/images/balcony-14-soil.jpg)
+![Tomato soil is being prepared](/images/balcony-14-soil.png)
 
 One of the biggest mistakes beginners make is filling containers with garden soil.
 
@@ -171,7 +171,7 @@ Your future harvest will thank you.
 
 ## Step 4: Find the Sunniest Spot Available
 
-![Beautiful south-facing balcony packed with tomato plants](/images/balcony-5-sunlight.jpg)
+![Beautiful south-facing balcony packed with tomato plants](/images/balcony-5-sunlight.png)
 
 Tomatoes are sunshine addicts.
 
@@ -205,7 +205,7 @@ If your balcony is exposed, place pots against a wall or install simple wind pro
 
 ## Step 5: Master Watering
 
-![Checking tomato soil moisture with finger](/images/balcony-6-watering.jpg)
+![Checking tomato soil moisture with finger](/images/balcony-6-watering.png)
 
 If there is one secret to growing tomatoes successfully, it's this:
 
@@ -251,7 +251,7 @@ Dry leaves stay healthier.
 
 ## Step 6: Feed Your Tomato Plants
 
-![Tomato plant being given fertilizer](/images/balcony-13-feeding.jpg)
+![Tomato plant being given fertilizer](/images/balcony-13-feeding.png)
 
 Tomatoes are hungry plants.
 
@@ -287,7 +287,7 @@ If your plant looks like a jungle but isn't producing tomatoes, switch to a toma
 
 ## Step 7: Support Your Plants Early
 
-![Tomato plants being supported by trellises](/images/balcony-12-support.jpg)
+![Tomato plants being supported by trellises](/images/balcony-12-support.png)
 
 Tomato plants are a bit like enthusiastic puppies.
 
@@ -323,7 +323,7 @@ Plants need room to grow.
 
 ## Step 8: Prune for Better Results
 
-![Close-up of tomato suckers being pinched out](/images/balcony-7-pruning.jpg)
+![Close-up of tomato suckers being pinched out](/images/balcony-7-pruning.png)
 
 Pruning sounds complicated.
 
@@ -345,7 +345,7 @@ For balcony gardeners with limited space, pruning can make a huge difference.
 
 ## Step 9: Help Pollination Along
 
-![Electric toothbrush vibrating tomato flower](/images/balcony-8-pollination.jpg)
+![Electric toothbrush vibrating tomato flower](/images/balcony-8-pollination.png)
 
 Tomatoes are self-pollinating.
 
@@ -371,10 +371,7 @@ It works surprisingly well.
 
 ## Common Balcony Tomato Problems
 
-![Blossom end rot
-Yellow leaves
-Fruit splitting
-Blight](/images/balcony-9-problems.jpg)
+![Blossom end rot, Yellow leaves, Fruit splitting, Blight](/images/balcony-9-problems.png)
 
 ### Yellow Leaves
 
@@ -418,7 +415,7 @@ Prevent it by:
 
 ## Harvesting Your Tomatoes
 
-![A basket full of harvested tomatoes](/images/balcony-10-basket.jpg)
+![A basket full of harvested tomatoes](/images/balcony-10-basket.png)
 
 This is the best part.
 
@@ -444,7 +441,7 @@ The difference is remarkable.
 
 ## Final Thoughts
 
-![A sliced tomato next to fresh sourdough bread](/images/balcony-11-final-hero.jpg)
+![A sliced tomato next to fresh sourdough bread](/images/balcony-11-final-hero.png)
 
 Growing tomatoes on a balcony proves that you don't need acres of land to grow amazing food.
 
