@@ -128,29 +128,29 @@ Don't.
 
 Garden soil becomes compacted in pots, reducing airflow around roots and increasing disease problems.
 
-The Perfect Potting Mix for Balcony Tomatoes
+### The Perfect Potting Mix for Balcony Tomatoes
 
 You can buy ready-made tomato compost, but if you want the ideal mix, use:
 
-60% high-quality peat-free potting compost
-20% homemade compost or well-rotted manure
-10% perlite (for drainage and aeration)
-10% coconut coir or leaf mould (to retain moisture)
+* 60% high-quality peat-free potting compost
+* 20% homemade compost or well-rotted manure
+* 10% perlite (for drainage and aeration)
+* 10% coconut coir or leaf mould (to retain moisture)
 
 For every 10 litres of mix, add:
 
-1 handful of slow-release tomato fertiliser
-1 handful of worm castings (optional but excellent)
-A small handful of garden lime if your compost is acidic.
+* 1 handful of slow-release tomato fertiliser
+* 1 handful of worm castings (optional but excellent)
+* A small handful of garden lime if your compost is acidic.
 
-Why this mix works?
+### Why this mix works?
 
 Compost provides nutrients.
 Perlite prevents compaction and improves drainage.
 Coir helps keep moisture levels stable.
 Slow-release fertiliser feeds the plant for weeks.
 
-Beginner shortcut
+### Beginner shortcut
 
 If you don't want to mix your own, simply buy:
 
