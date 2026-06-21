@@ -170,7 +170,7 @@ Your future harvest will thank you.
 
 ## Step 4: Find the Sunniest Spot Available
 
-![Beautiful south-facing balcony packed with tomato plants](/images/balcony-4-sunlight.jpg)
+![Beautiful south-facing balcony packed with tomato plants](/images/balcony-5-sunlight.jpg)
 
 Tomatoes are sunshine addicts.
 
