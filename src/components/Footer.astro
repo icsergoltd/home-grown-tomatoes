@@ -1,1 +1,21 @@
---- import BackToTop from './BackToTop.astro'; const today = new Date(); --- <footer> <p>© {today.getFullYear()} Home Grown Tomatoes. All rights reserved.</p> </footer> <BackToTop /> <style> footer { padding: 40px 20px; text-align: center; color: #666; border-top: 1px solid #e5e5e5; background: white; } </style>
+---
+import BackToTop from './BackToTop.astro';
+
+const today = new Date();
+---
+
+<footer>
+  <p>© {today.getFullYear()} Home Grown Tomatoes. All rights reserved.</p>
+</footer>
+
+<BackToTop />
+
+<style>
+footer {
+    padding: 40px 20px;
+    text-align: center;
+    color: #666;
+    border-top: 1px solid #e5e5e5;
+    background: white;
+}
+</style>
