@@ -1,13 +1,11 @@
 ---
-import BackToTop from './BackToTop.astro';
-
 const today = new Date();
+import BackToTop from './BackToTop.astro';
 ---
 
 <footer>
 	<div class="footer-inner">
 		<p>© {today.getFullYear()} Home Grown Tomatoes. All rights reserved.</p>
-		<p class="footer-owner">Operated by RheaNest Media.</p>
 
 		<nav class="footer-links" aria-label="Footer navigation">
 			<a href="/privacy-policy/">Privacy Policy</a>
@@ -34,12 +32,7 @@ const today = new Date();
 	}
 
 	.footer-inner p {
-		margin: 0 0 8px;
-	}
-
-	.footer-owner {
-		font-size: 0.95rem;
-		color: #777;
+		margin: 0 0 14px;
 	}
 
 	.footer-links {
@@ -47,7 +40,6 @@ const today = new Date();
 		justify-content: center;
 		flex-wrap: wrap;
 		gap: 14px 22px;
-		margin-top: 14px;
 	}
 
 	.footer-links a {
