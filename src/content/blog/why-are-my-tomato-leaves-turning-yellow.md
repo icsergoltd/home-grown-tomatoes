@@ -39,29 +39,101 @@ The most common causes are:
 
 ---
 
-## Quick Diagnosis Table
+## Quick Diagnosis Guide
 
-Use this table first. It will help you narrow down the problem quickly.
-
-| What You See | Most Likely Cause | What to Do First |
-|---|---|---|
-| Only the lowest old leaves are yellow | Natural ageing | Remove old yellow leaves |
-| Seedling’s first tiny leaves turn yellow | Cotyledons naturally dying | Do nothing if true leaves look healthy |
-| Yellow leaves soon after planting outside | Transplant shock | Water consistently and wait 1–2 weeks |
-| Yellow leaves plus soggy soil | Overwatering or poor drainage | Let soil dry slightly and improve drainage |
-| Yellow, crispy leaves and dry soil | Underwatering | Water deeply at the base |
-| Yellow leaves with green veins | Magnesium or iron issue | Check feeding and soil pH |
-| Pale plant with older leaves yellowing first | Nitrogen deficiency | Feed with balanced fertiliser |
-| Yellow leaf edges turning brown | Potassium deficiency | Use tomato feed once flowering starts |
-| Pale, leggy plant in shade | Not enough sunlight | Move to a sunnier spot |
-| Yellow leaves with brown target-like spots | Early blight | Remove affected leaves and improve airflow |
-| Tiny spots, yellow leaves, lower leaves dying | Septoria leaf spot | Remove infected leaves and mulch soil |
-| Yellow leaves with sticky residue or tiny insects | Aphids or whiteflies | Check undersides of leaves and wash pests off |
-| Yellow stippling and fine webbing | Spider mites | Spray leaves and use insecticidal soap if needed |
-| One side of plant wilts and yellows | Fusarium or Verticillium wilt | Remove badly affected plants and use resistant varieties next time |
-| Twisted, yellow, strange-looking growth | Herbicide damage or virus | Check for chemical exposure and remove badly affected plants |
+Use this first. Instead of guessing, match what you see on the plant with the most likely cause.
 
 ![Visual diagnosis chart showing four tomato leaf yellowing patterns including plain yellow, yellow with green veins, spotted yellow and curled yellow](/images/yellow-leaves-2-diagnosis.png)
+
+### Only the lowest old leaves are yellow
+
+**Most likely cause:** Natural ageing.
+
+**What to do first:** Remove the old yellow leaves and check that the top of the plant still looks healthy and green.
+
+### The seedling’s first tiny leaves are turning yellow
+
+**Most likely cause:** The seed leaves, called cotyledons, are naturally dying.
+
+**What to do first:** Do nothing if the true tomato leaves above them look healthy.
+
+### Leaves turn yellow soon after planting outside
+
+**Most likely cause:** Transplant shock.
+
+**What to do first:** Keep the plant evenly watered and give it one to two weeks to settle.
+
+### Yellow leaves with soggy soil
+
+**Most likely cause:** Overwatering or poor drainage.
+
+**What to do first:** Let the soil dry slightly and make sure water can drain away from the roots.
+
+### Yellow, crispy leaves with dry soil
+
+**Most likely cause:** Underwatering.
+
+**What to do first:** Water deeply at the base of the plant until moisture reaches the root zone.
+
+### Yellow leaves with green veins
+
+**Most likely cause:** A nutrient issue, often magnesium, iron, or soil pH imbalance.
+
+**What to do first:** Check your feeding routine and consider testing the soil pH.
+
+### Whole plant looks pale and older leaves yellow first
+
+**Most likely cause:** Nitrogen deficiency.
+
+**What to do first:** Feed with a balanced fertiliser or suitable tomato feed.
+
+### Yellow leaf edges turning brown
+
+**Most likely cause:** Potassium deficiency.
+
+**What to do first:** Use tomato feed once flowers and fruit begin to form.
+
+### Plant is pale, leggy, and sitting in shade
+
+**Most likely cause:** Not enough sunlight.
+
+**What to do first:** Move potted tomatoes to a sunnier spot if possible.
+
+### Yellow leaves with brown target-like spots
+
+**Most likely cause:** Early blight.
+
+**What to do first:** Remove affected leaves, improve airflow, and avoid watering the leaves.
+
+### Tiny spots with yellowing lower leaves
+
+**Most likely cause:** Septoria leaf spot.
+
+**What to do first:** Remove infected leaves and mulch the soil to reduce splashback.
+
+### Yellow leaves with sticky residue or tiny insects
+
+**Most likely cause:** Aphids or whiteflies.
+
+**What to do first:** Check underneath the leaves and wash pests off with water.
+
+### Yellow stippling with fine webbing
+
+**Most likely cause:** Spider mites.
+
+**What to do first:** Spray the undersides of leaves and use insecticidal soap if needed.
+
+### One side of the plant wilts and yellows
+
+**Most likely cause:** Fusarium wilt or Verticillium wilt.
+
+**What to do first:** Remove badly affected plants and use resistant varieties next time.
+
+### Twisted, yellow, strange-looking new growth
+
+**Most likely cause:** Herbicide damage or a viral disease.
+
+**What to do first:** Check for chemical exposure, contaminated compost, or unusual distorted growth.
 
 ---
 
