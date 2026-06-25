@@ -1,13 +1,12 @@
 ---
-
-title: "Why Are My Tomato Leaves Turning Yellow? 12 Common Causes and How to Fix Them"
+title: "Why Are My Tomato Leaves Turning Yellow? 21 Causes and Easy Fixes"
 description: "Tomato leaves turning yellow? Learn the most common causes, from watering and nutrient problems to pests, diseases, and stress, plus simple ways to fix yellow tomato leaves."
 pubDate: 2026-06-24
 heroImage: "/images/yellow-leaf.png"
 author: "Home Grown Tomatoes"
 tags: ["tomatoes", "tomato problems", "yellow leaves", "plant care"]
 order: 3
---------
+---
 
 **Yellow tomato leaves can look worrying, but they are not always bad news.**
 
@@ -44,20 +43,23 @@ The most common causes are:
 
 Use this table first. It will help you narrow down the problem quickly.
 
-| What You See                                      | Most Likely Cause             | What to Do First                                                   |
-| ------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------ |
-| Only the lowest old leaves are yellow             | Natural ageing                | Remove old yellow leaves                                           |
-| Seedling’s first tiny leaves turn yellow          | Cotyledons naturally dying    | Do nothing if true leaves look healthy                             |
-| Yellow leaves soon after planting outside         | Transplant shock              | Water consistently and wait 1–2 weeks                              |
-| Yellow leaves plus soggy soil                     | Overwatering or poor drainage | Let soil dry slightly and improve drainage                         |
-| Yellow, crispy leaves and dry soil                | Underwatering                 | Water deeply at the base                                           |
-| Yellow leaves with green veins                    | Magnesium or iron issue       | Check feeding and soil pH                                          |
-| Pale plant with older leaves yellowing first      | Nitrogen deficiency           | Feed with balanced fertiliser                                      |
-| Yellow leaves with brown target-like spots        | Early blight                  | Remove affected leaves and improve airflow                         |
-| Tiny spots, yellow leaves, lower leaves dying     | Septoria leaf spot            | Remove infected leaves and mulch soil                              |
-| Yellow leaves with sticky residue or tiny insects | Aphids or whiteflies          | Check undersides of leaves and wash pests off                      |
-| Yellow stippling and fine webbing                 | Spider mites                  | Increase humidity and use insecticidal soap if needed              |
-| One side of plant wilts and yellows               | Fusarium or Verticillium wilt | Remove badly affected plants and use resistant varieties next time |
+| What You See | Most Likely Cause | What to Do First |
+|---|---|---|
+| Only the lowest old leaves are yellow | Natural ageing | Remove old yellow leaves |
+| Seedling’s first tiny leaves turn yellow | Cotyledons naturally dying | Do nothing if true leaves look healthy |
+| Yellow leaves soon after planting outside | Transplant shock | Water consistently and wait 1–2 weeks |
+| Yellow leaves plus soggy soil | Overwatering or poor drainage | Let soil dry slightly and improve drainage |
+| Yellow, crispy leaves and dry soil | Underwatering | Water deeply at the base |
+| Yellow leaves with green veins | Magnesium or iron issue | Check feeding and soil pH |
+| Pale plant with older leaves yellowing first | Nitrogen deficiency | Feed with balanced fertiliser |
+| Yellow leaf edges turning brown | Potassium deficiency | Use tomato feed once flowering starts |
+| Pale, leggy plant in shade | Not enough sunlight | Move to a sunnier spot |
+| Yellow leaves with brown target-like spots | Early blight | Remove affected leaves and improve airflow |
+| Tiny spots, yellow leaves, lower leaves dying | Septoria leaf spot | Remove infected leaves and mulch soil |
+| Yellow leaves with sticky residue or tiny insects | Aphids or whiteflies | Check undersides of leaves and wash pests off |
+| Yellow stippling and fine webbing | Spider mites | Spray leaves and use insecticidal soap if needed |
+| One side of plant wilts and yellows | Fusarium or Verticillium wilt | Remove badly affected plants and use resistant varieties next time |
+| Twisted, yellow, strange-looking growth | Herbicide damage or virus | Check for chemical exposure and remove badly affected plants |
 
 ---
 
@@ -72,6 +74,8 @@ The important question is:
 **Is the yellowing limited and slow, or spreading fast?**
 
 If it is only a few old leaves at the bottom, your plant may be fine. If the yellowing is spreading upward, comes with spots, wilting, curling, sticky residue, or stunted growth, then it is time to investigate.
+
+Think of yellow leaves as a message, not a disaster.
 
 ---
 
@@ -629,35 +633,35 @@ A good rule: remove the problem leaves, not half the plant.
 
 If your tomato leaves are turning yellow, do this today:
 
-1. **Check the soil moisture**
+1. **Check the soil moisture**  
    Push your finger 5cm into the soil. Is it dry, moist, or soggy?
 
-2. **Look at where the yellowing starts**
+2. **Look at where the yellowing starts**  
    Bottom leaves only? New top leaves? One branch? Whole plant?
 
-3. **Inspect the leaf pattern**
+3. **Inspect the leaf pattern**  
    Plain yellow? Yellow with green veins? Yellow with spots? Yellow and curled?
 
-4. **Check under the leaves**
+4. **Check under the leaves**  
    Look for aphids, whiteflies, spider mites, eggs, or webbing.
 
-5. **Remove the worst leaves**
+5. **Remove the worst leaves**  
    Cut off dead, yellow, or spotted leaves and bin diseased material.
 
-6. **Water correctly**
+6. **Water correctly**  
    Water at the base, not over the leaves.
 
-7. **Improve airflow**
+7. **Improve airflow**  
    Remove crowded lower leaves and make sure plants are not packed too close together.
 
-8. **Feed sensibly**
+8. **Feed sensibly**  
    If the plant looks pale and hungry, use a suitable tomato feed.
 
-9. **Watch for spread**
+9. **Watch for spread**  
    Check again in two or three days. If it spreads quickly, disease may be involved.
 
-10. **Take a photo**
-    Photos help you compare changes and spot whether the plant is improving or getting worse.
+10. **Take a photo**  
+   Photos help you compare changes and spot whether the plant is improving or getting worse.
 
 ---
 
@@ -725,35 +729,35 @@ Resistant varieties are not magic shields, but they can make tomato growing much
 
 Avoid these and your plants will already be in better shape:
 
-1. **Watering every day without checking the soil**
+1. **Watering every day without checking the soil**  
    Always check moisture first.
 
-2. **Using pots without drainage holes**
+2. **Using pots without drainage holes**  
    Tomato roots hate sitting in water.
 
-3. **Planting tomatoes too close together**
+3. **Planting tomatoes too close together**  
    Crowding increases disease risk.
 
-4. **Splashing soil onto leaves**
+4. **Splashing soil onto leaves**  
    Mulch and base watering help prevent this.
 
-5. **Feeding randomly**
+5. **Feeding randomly**  
    Too much of the wrong fertiliser can cause more problems.
 
-6. **Ignoring the undersides of leaves**
+6. **Ignoring the undersides of leaves**  
    Many pests hide underneath.
 
-7. **Leaving diseased leaves on the plant**
+7. **Leaving diseased leaves on the plant**  
    Remove and bin them early.
 
-8. **Composting diseased tomato foliage**
+8. **Composting diseased tomato foliage**  
    Bin diseased material instead.
 
-9. **Planting too early outside**
+9. **Planting too early outside**  
    Cold stress can make leaves yellow and growth stall.
 
-10. **Panicking over one yellow leaf**
-    Diagnose before acting.
+10. **Panicking over one yellow leaf**  
+   Diagnose before acting.
 
 ---
 
@@ -825,8 +829,8 @@ Yes. Early blight, Septoria leaf spot, late blight, wilts, bacterial diseases, a
 
 Yellow tomato leaves are not a failure. They are a message.
 
-Sometimes the message is simple: “I am an old leaf.”
-Sometimes it is: “I need better watering.”
+Sometimes the message is simple: “I am an old leaf.”  
+Sometimes it is: “I need better watering.”  
 Sometimes it is: “Please check me for pests or disease.”
 
 The trick is to slow down, look closely, and read the clues.
