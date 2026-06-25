@@ -117,6 +117,8 @@ If your pot doesn't have drainage holes, don't use it.
 
 Roots sitting in water quickly rot, and once that happens, recovery is difficult.
 
+For a deeper container setup guide, including pot size, drainage, compost, and support, read our full guide on [how to grow tomatoes in pots](/blog/grow-tomatoes-in-pots).
+
 ---
 
 ## Step 3: Use the Right Potting Mix
@@ -166,6 +168,8 @@ Mix:
 and feed with liquid tomato fertiliser once flowers appear.
 
 Your future harvest will thank you.
+
+If you want a complete beginner-friendly breakdown of container growing, our guide to [growing tomatoes in pots](/blog/grow-tomatoes-in-pots) explains the full setup step by step.
 
 ---
 
@@ -246,6 +250,8 @@ Always water around the base of the plant.
 Wet leaves encourage disease.
 
 Dry leaves stay healthier.
+
+Watering problems are one of the biggest reasons tomato leaves turn yellow. If your plant is already showing yellow leaves, use this guide to diagnose [why your tomato leaves are turning yellow](/blog/why-are-my-tomato-leaves-turning-yellow).
 
 ---
 
@@ -384,6 +390,8 @@ Usually caused by:
 Check watering first.
 
 It's the most common cause.
+
+For a full diagnosis, including watering problems, nutrient deficiencies, pests, and diseases, read our guide on [why tomato leaves turn yellow](/blog/why-are-my-tomato-leaves-turning-yellow).
 
 ### Blossom End Rot
 
