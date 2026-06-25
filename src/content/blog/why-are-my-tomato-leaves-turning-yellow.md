@@ -39,131 +39,173 @@ The most common causes are:
 
 ---
 
-## Quick Diagnosis Guide
+## Quick Diagnosis Table
 
 Use this first. Instead of guessing, match what you see on the plant with the most likely cause.
 
-This works better than a wide table because it stays readable on phones, tablets, and desktop screens.
+<div class="diagnosis-table-wrapper">
+<table class="diagnosis-table">
+	<thead>
+		<tr>
+			<th>What you see</th>
+			<th>Most likely cause</th>
+			<th>What to do first</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Only the lowest old leaves are yellow</td>
+			<td>Natural ageing</td>
+			<td>Remove old yellow leaves and check that the top growth is still healthy.</td>
+		</tr>
+		<tr>
+			<td>The seedling’s first tiny leaves turn yellow</td>
+			<td>Cotyledons naturally dying</td>
+			<td>Do nothing if the true tomato leaves above them look healthy.</td>
+		</tr>
+		<tr>
+			<td>Leaves turn yellow soon after planting outside</td>
+			<td>Transplant shock</td>
+			<td>Water consistently and give the plant one to two weeks to settle.</td>
+		</tr>
+		<tr>
+			<td>Yellow leaves with soggy soil</td>
+			<td>Overwatering or poor drainage</td>
+			<td>Let the soil dry slightly and make sure water can drain away.</td>
+		</tr>
+		<tr>
+			<td>Yellow, crispy leaves with dry soil</td>
+			<td>Underwatering</td>
+			<td>Water deeply at the base until moisture reaches the root zone.</td>
+		</tr>
+		<tr>
+			<td>Yellow leaves with green veins</td>
+			<td>Magnesium, iron, or pH issue</td>
+			<td>Check your feeding routine and consider testing the soil pH.</td>
+		</tr>
+		<tr>
+			<td>Whole plant looks pale and older leaves yellow first</td>
+			<td>Nitrogen deficiency</td>
+			<td>Feed with a balanced fertiliser or suitable tomato feed.</td>
+		</tr>
+		<tr>
+			<td>Yellow leaf edges turning brown</td>
+			<td>Potassium deficiency</td>
+			<td>Use tomato feed once flowers and fruit begin forming.</td>
+		</tr>
+		<tr>
+			<td>Plant is pale, leggy, and sitting in shade</td>
+			<td>Not enough sunlight</td>
+			<td>Move potted tomatoes to a sunnier spot if possible.</td>
+		</tr>
+		<tr>
+			<td>Yellow leaves with brown target-like spots</td>
+			<td>Early blight</td>
+			<td>Remove affected leaves, improve airflow, and avoid wetting leaves.</td>
+		</tr>
+		<tr>
+			<td>Tiny spots with yellowing lower leaves</td>
+			<td>Septoria leaf spot</td>
+			<td>Remove infected leaves and mulch the soil to reduce splashback.</td>
+		</tr>
+		<tr>
+			<td>Yellow leaves with sticky residue or tiny insects</td>
+			<td>Aphids or whiteflies</td>
+			<td>Check underneath the leaves and wash pests off with water.</td>
+		</tr>
+		 and wash pests off with water.</td<tr>
+			<td>Yellow stippling with fine webbing</td>
+			<td>Spider mites</td>
+			<td>Spray the undersides of leaves and use insecticidal soap if needed.</td>
+		</tr>
+		<tr>
+			<td>One side of the plant wilts and yellows</td>
+			<td>Fusarium or Verticillium wilt</td>
+			<td>Remove badly affected plants and use resistant varieties next time.</td>
+		</tr>
+		<tr>
+			<td>Twisted, yellow, strange-looking new growth</td>
+			<td>Herbicide damage or virus</td>
+			<td>Check for chemical exposure, contaminated compost, or unusual distortion.</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
-### 1. Only the lowest old leaves are yellow
+<style>
+	.diagnosis-table-wrapper {
+		width: 100%;
+		overflow-x: auto;
+		margin: 1.5rem 0 2rem;
+		border-radius: 14px;
+		box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+		background: #fffdf8;
+	}
 
-**Most likely cause:** Natural ageing.
+	.diagnosis-table {
+		width: 100%;
+		min-width: 760px;
+		border-collapse: collapse;
+		background: #fffdf8;
+		font-size: 0.98rem;
+		line-height: 1.45;
+	}
 
-**What to do first:** Remove the old yellow leaves and check that the top of the plant still looks healthy and green.
+	.diagnosis-table th {
+		background: #315b1f;
+		color: white;
+		text-align: left;
+		padding: 14px 16px;
+		font-weight: 800;
+	}
 
----
+	.diagnosis-table td {
+		padding: 13px 16px;
+		border-bottom: 1px solid #e5e0d5;
+		vertical-align: top;
+		color: #102810;
+	}
 
-### 2. The seedling’s first tiny leaves are turning yellow
+	.diagnosis-table tr:nth-child(even) td {
+		background: #f7f3ea;
+	}
 
-**Most likely cause:** The seed leaves, called cotyledons, are naturally dying.
+	.diagnosis-table tr:last-child td {
+		border-bottom: none;
+	}
 
-**What to do first:** Do nothing if the true tomato leaves above them look healthy.
+	.diagnosis-table td:first-child {
+		font-weight: 700;
+		width: 34%;
+	}
 
----
+	.diagnosis-table td:nth-child(2) {
+		width: 26%;
+		color: #315b1f;
+		font-weight: 700;
+	}
 
-### 3. Leaves turn yellow soon after planting outside
+	.diagnosis-table td:nth-child(3) {
+		width: 40%;
+	}
 
-**Most likely cause:** Transplant shock.
+	@media (max-width: 700px) {
+		.diagnosis-table-wrapper {
+			margin-top: 1rem;
+			border-radius: 10px;
+		}
 
-**What to do first:** Keep the plant evenly watered and give it one to two weeks to settle.
+		.diagnosis-table {
+			min-width: 700px;
+			font-size: 0.92rem;
+		}
 
----
-
-### 4. Yellow leaves with soggy soil
-
-**Most likely cause:** Overwatering or poor drainage.
-
-**What to do first:** Let the soil dry slightly and make sure water can drain away from the roots.
-
----
-
-### 5. Yellow, crispy leaves with dry soil
-
-**Most likely cause:** Underwatering.
-
-**What to do first:** Water deeply at the base of the plant until moisture reaches the root zone.
-
----
-
-### 6. Yellow leaves with green veins
-
-**Most likely cause:** A nutrient issue, often magnesium, iron, or soil pH imbalance.
-
-**What to do first:** Check your feeding routine and consider testing the soil pH.
-
----
-
-### 7. Whole plant looks pale and older leaves yellow first
-
-**Most likely cause:** Nitrogen deficiency.
-
-**What to do first:** Feed with a balanced fertiliser or suitable tomato feed.
-
----
-
-### 8. Yellow leaf edges turning brown
-
-**Most likely cause:** Potassium deficiency.
-
-**What to do first:** Use tomato feed once flowers and fruit begin to form.
-
----
-
-### 9. Plant is pale, leggy, and sitting in shade
-
-**Most likely cause:** Not enough sunlight.
-
-**What to do first:** Move potted tomatoes to a sunnier spot if possible.
-
----
-
-### 10. Yellow leaves with brown target-like spots
-
-**Most likely cause:** Early blight.
-
-**What to do first:** Remove affected leaves, improve airflow, and avoid watering the leaves.
-
----
-
-### 11. Tiny spots with yellowing lower leaves
-
-**Most likely cause:** Septoria leaf spot.
-
-**What to do first:** Remove infected leaves and mulch the soil to reduce splashback.
-
----
-
-### 12. Yellow leaves with sticky residue or tiny insects
-
-**Most likely cause:** Aphids or whiteflies.
-
-**What to do first:** Check underneath the leaves and wash pests off with water.
-
----
-
-### 13. Yellow stippling with fine webbing
-
-**Most likely cause:** Spider mites.
-
-**What to do first:** Spray the undersides of leaves and use insecticidal soap if needed.
-
----
-
-### 14. One side of the plant wilts and yellows
-
-**Most likely cause:** Fusarium wilt or Verticillium wilt.
-
-**What to do first:** Remove badly affected plants and use resistant varieties next time.
-
----
-
-### 15. Twisted, yellow, strange-looking new growth
-
-**Most likely cause:** Herbicide damage or a viral disease.
-
-**What to do first:** Check for chemical exposure, contaminated compost, or unusual distorted growth.
-
----
+		.diagnosis-table th,
+		.diagnosis-table td {
+			padding: 11px 12px;
+		}
+	}
+</style>
 
 ![Visual diagnosis chart showing four tomato leaf yellowing patterns including plain yellow, yellow with green veins, spotted yellow and curled yellow](/images/yellow-leaves-2-diagnosis.png)
 
