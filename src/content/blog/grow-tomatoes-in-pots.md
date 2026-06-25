@@ -17,6 +17,8 @@ A sunny patio, balcony, doorstep, driveway, or small corner by a wall can be eno
 
 Growing tomatoes in pots is one of the most satisfying ways to start gardening. You do not need a big garden, raised beds, or a greenhouse. A sunny balcony, patio, doorstep, driveway, or small corner by a wall can be enough to grow sweet, juicy, homegrown tomatoes.
 
+For more balcony-specific advice, including wind, sunlight, watering, and small-space setup, read our full guide on [how to grow tomatoes on a balcony](/blog/grow-tomatoes-on-balcony).
+
 The best part? Potted tomatoes are easy to keep close to the house, easy to water, and easy to check every day. There is something genuinely joyful about walking past your tomato plant in the morning and seeing new yellow flowers, green fruits swelling, and the first red tomato slowly ripening in the sun.
 
 But tomatoes in pots do need a little extra care. A container is a smaller growing space than the ground, so the plant depends on you for water, food, support, and healthy compost.
@@ -470,6 +472,8 @@ A few yellow lower leaves are normal as the plant ages. But lots of yellowing ca
 * Natural ageing later in the season
 
 Check the compost before guessing. If it is wet and heavy, reduce watering. If it is dry and pulling away from the pot edge, water deeply.
+
+For a full diagnosis, including watering problems, nutrient deficiencies, pests, and diseases, read our guide on [why tomato leaves turn yellow](/blog/why-are-my-tomato-leaves-turning-yellow).
 
 ### Aphids
 
