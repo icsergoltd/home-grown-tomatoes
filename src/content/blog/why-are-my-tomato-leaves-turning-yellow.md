@@ -2,7 +2,7 @@
 title: "Why Are My Tomato Leaves Turning Yellow? 21 Causes and Easy Fixes"
 description: "Tomato leaves turning yellow? Learn the most common causes, from watering and nutrient problems to pests, diseases, and stress, plus simple ways to fix yellow tomato leaves."
 pubDate: 2026-06-24
-heroImage: "/images/yellow-leaf.png"
+heroImage: "/images/yellow-leaves-1-hero.png"
 author: "Home Grown Tomatoes"
 tags: ["tomatoes", "tomato problems", "yellow leaves", "plant care"]
 order: 3
@@ -61,6 +61,8 @@ Use this table first. It will help you narrow down the problem quickly.
 | One side of plant wilts and yellows | Fusarium or Verticillium wilt | Remove badly affected plants and use resistant varieties next time |
 | Twisted, yellow, strange-looking growth | Herbicide damage or virus | Check for chemical exposure and remove badly affected plants |
 
+![Visual diagnosis chart showing four tomato leaf yellowing patterns including plain yellow, yellow with green veins, spotted yellow and curled yellow](/images/yellow-leaves-2-diagnosis.png)
+
 ---
 
 ## First: Do Not Panic
@@ -84,6 +86,8 @@ Think of yellow leaves as a message, not a disaster.
 This is one of the most harmless reasons for yellow tomato leaves.
 
 As tomato plants grow taller, the lowest leaves often receive less sunlight. The plant may stop investing energy in those older leaves and focus instead on new growth, flowers, and fruit.
+
+![Healthy tomato plant with only the old lower leaves turning yellow while the top growth remains green and strong](/images/yellow-leaves-3-old-lower-leaves.png)
 
 ### What It Looks Like
 
@@ -155,6 +159,8 @@ Overwatering is one of the most common reasons tomato leaves turn yellow.
 
 Tomato roots need water, but they also need oxygen. When soil stays constantly wet, the roots can suffocate. Damaged roots cannot take up nutrients properly, so the leaves begin to yellow.
 
+![Potted tomato plant in soggy soil with yellow drooping leaves showing overwatering problems](/images/yellow-leaves-4-overwatering.png)
+
 ### What It Looks Like
 
 * Leaves turn yellow and may droop
@@ -184,6 +190,8 @@ For future watering, aim for **evenly moist**, not constantly wet.
 Underwatering can also cause yellow leaves, especially in pots and grow bags.
 
 When soil becomes too dry, the plant cannot take up water or nutrients. Leaves may turn pale, yellow, crispy, or curled.
+
+![Dry compost pulling away from the edge of a pot with yellowing tomato leaves and a watering can nearby](/images/yellow-leaves-5-underwatering.png)
 
 ### What It Looks Like
 
@@ -238,6 +246,8 @@ Healthy roots are the secret engine of a healthy tomato plant.
 Tomatoes are hungry plants. If they do not get enough nutrients, the leaves can turn yellow.
 
 Nitrogen is especially important for leafy green growth. When nitrogen is low, older leaves often turn pale green or yellow first.
+
+![Tomato leaf close-up with yellow tissue between green veins showing a possible nutrient deficiency](/images/yellow-leaves-6-nutrient-deficiency.png)
 
 ### What It Looks Like
 
@@ -401,6 +411,8 @@ Tiny pests can suck sap from tomato leaves, causing yellowing, curling, and weak
 
 They often hide underneath leaves, so you may not notice them at first.
 
+![Underside of a tomato leaf showing aphids and whiteflies clearly for pest identification](/images/yellow-leaves-7-pests.png)
+
 ### Aphids
 
 Aphids are small, soft-bodied insects that cluster on new growth and leaf undersides.
@@ -451,6 +463,8 @@ Avoid using harsh broad-spectrum sprays unless truly necessary, because they can
 Early blight is a common tomato disease that often starts on the lower leaves.
 
 Despite the name, it does not only appear early in the season.
+
+![Four-panel tomato disease guide showing early blight, Septoria leaf spot, late blight and bacterial spots](/images/yellow-leaves-8-disease-grid.png)
 
 ### What It Looks Like
 
@@ -632,6 +646,8 @@ A good rule: remove the problem leaves, not half the plant.
 ## What to Do Today: A Simple 10-Minute Tomato Check
 
 If your tomato leaves are turning yellow, do this today:
+
+![Gardener inspecting yellow tomato leaves with scissors, watering can and moisture check tools for a simple tomato plant health check](/images/yellow-leaves-9-checklist.png)
 
 1. **Check the soil moisture**  
    Push your finger 5cm into the soil. Is it dry, moist, or soggy?
@@ -832,6 +848,8 @@ Yellow tomato leaves are not a failure. They are a message.
 Sometimes the message is simple: “I am an old leaf.”  
 Sometimes it is: “I need better watering.”  
 Sometimes it is: “Please check me for pests or disease.”
+
+![Recovering tomato plant with healthy green new growth and removed yellow leaves in a small pile](/images/yellow-leaves-10-recovery.png)
 
 The trick is to slow down, look closely, and read the clues.
 
