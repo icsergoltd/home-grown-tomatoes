@@ -18,6 +18,8 @@ If you look at **where the yellowing starts**, **what pattern it makes**, and **
 
 This guide will help you diagnose yellow tomato leaves step by step, so you can stop guessing and start fixing.
 
+If your tomatoes are growing in containers, it also helps to understand the basics of [how to grow tomatoes in pots](/blog/grow-tomatoes-in-pots), because pot size, compost, drainage, watering, and feeding all affect leaf colour.
+
 ---
 
 ## Quick Answer: Why Are My Tomato Leaves Turning Yellow?
@@ -329,6 +331,8 @@ Make sure containers have drainage holes. If the plant is in a pot, lift it slig
 
 For future watering, aim for **evenly moist**, not constantly wet.
 
+Container-grown tomatoes are especially easy to overwater or underwater, so make sure your setup follows the basics in our guide to [growing tomatoes in pots](/blog/grow-tomatoes-in-pots).
+
 ---
 
 ## 5. Underwatering
@@ -384,6 +388,8 @@ For pots, use good-quality peat-free potting compost or tomato compost. Avoid he
 For garden beds, improve drainage with organic matter and avoid planting tomatoes in low, waterlogged areas.
 
 Healthy roots are the secret engine of a healthy tomato plant.
+
+For a full container setup, including pot size, compost, drainage, and support, read our beginner guide on [how to grow tomatoes in pots](/blog/grow-tomatoes-in-pots).
 
 ---
 
@@ -505,6 +511,8 @@ Move potted tomatoes to a sunnier place if possible.
 Tomatoes usually need **6–8 hours of direct sunlight per day** for strong growth and good fruiting.
 
 If your garden is partly shaded, cherry tomatoes and smaller bush varieties are often more forgiving than large beefsteak types.
+
+Balconies can be brilliant for tomatoes, but light, wind, heat, and watering need a little extra thought. Our guide to [growing tomatoes on a balcony](/blog/grow-tomatoes-on-balcony) explains how to choose the best spot and keep plants healthy in small spaces.
 
 ---
 
@@ -979,7 +987,7 @@ This is often transplant shock. The plant is adjusting to new conditions. Keep i
 
 ### Why are my potted tomato leaves turning yellow?
 
-Potted tomatoes often yellow because of inconsistent watering, poor drainage, depleted compost, or lack of feeding. Check the compost moisture, make sure the pot drains well, and feed once flowers or fruit appear.
+Potted tomatoes often yellow because of inconsistent watering, poor drainage, depleted compost, or lack of feeding. Check the compost moisture, make sure the pot drains well, and feed once flowers or fruit appear. For the full setup, see our guide on [how to grow tomatoes in pots](/blog/grow-tomatoes-in-pots).
 
 ### Can yellow tomato leaves be caused by disease?
 
