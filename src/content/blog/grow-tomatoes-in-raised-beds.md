@@ -1,16 +1,20 @@
 ---
-title: "How to Grow Tomatoes in Raised Beds: Complete Beginner Guide"
-description: "Learn how to grow tomatoes in raised beds, including the best soil mix, bed depth, spacing, watering, feeding, pruning, supports, pests, diseases, and harvesting tips."
-slug: "how-to-grow-tomatoes-in-raised-beds"
+title: "How to Grow Tomatoes in Raised Beds: The Complete Beginner's Guide"
+description: "Learn how to grow tomatoes in raised beds with this easy beginner guide. Discover the best raised bed depth, soil mix, tomato varieties, spacing, watering tips, feeding advice, and common mistakes to avoid."
+pubDate: 2026-06-26
+heroImage: "/images/raised-beds-1-hero.png"
+author: "Home Grown Tomatoes"
+tags: ["tomatoes", "raised beds", "raised bed gardening"]
+order: 3
 ---
 
-# How to Grow Tomatoes in Raised Beds: Complete Beginner Guide
+# How to Grow Tomatoes in Raised Beds: The Complete Beginner's Guide
 
 Growing tomatoes in raised beds is one of the easiest ways to get healthier plants, better soil, fewer drainage problems, and a more reliable harvest. If your garden soil is heavy clay, compacted, rocky, poor in nutrients, or difficult to work with, a raised bed gives you much more control from the start.
 
 Tomatoes love warmth, rich soil, steady moisture, and plenty of sun. A raised bed can provide all of those things when it is set up properly. The soil warms faster in spring, drains better after rain, and can be filled with a loose, fertile mix that tomato roots can grow through easily.
 
-This guide explains exactly how to grow tomatoes in raised beds, from choosing the right location and soil mix to planting, spacing, watering, feeding, pruning, supporting, troubleshooting, and harvesting.
+This guide explains how to grow tomatoes in raised beds from start to finish, including the best bed depth, soil mix, spacing, tomato varieties, watering routine, feeding schedule, pruning method, support options, and common mistakes to avoid.
 
 ## Why Grow Tomatoes in Raised Beds?
 
