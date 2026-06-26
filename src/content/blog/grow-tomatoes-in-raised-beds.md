@@ -4,7 +4,7 @@ description: "Learn how to grow tomatoes in raised beds with this easy beginner 
 pubDate: 2026-06-26
 heroImage: "/images/raised-beds-1-hero.png"
 author: "Home Grown Tomatoes"
-tags: ["tomatoes", "raised beds", "raised bed gardening"]
+tags: ["tomatoes", "growing guides", "raised beds", "raised bed gardening"]
 order: 3
 ---
 
