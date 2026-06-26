@@ -5,7 +5,7 @@ description: "Learn how to grow tomatoes in pots with this easy beginner guide. 
 pubDate: 2026-06-21
 heroImage: "/images/pots-1-hero.png"
 author: "Home Grown Tomatoes"
-tags: ["tomatoes", "container gardening", "potted tomatoes"]
+tags: ["tomatoes", "growing guides", "container gardening", "potted tomatoes"]
 order: 2
 ---
 
