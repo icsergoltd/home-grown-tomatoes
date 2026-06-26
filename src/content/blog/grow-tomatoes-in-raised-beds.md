@@ -633,6 +633,8 @@ Raised beds reduce some problems, but tomatoes can still suffer from pests, dise
 
 The key is to check your plants often. A quick daily look can help you catch problems early.
 
+If your tomato leaves are turning yellow, read this full troubleshooting guide: [Why Are My Tomato Leaves Turning Yellow?](/blog/why-are-my-tomato-leaves-turning-yellow).
+
 ## Blossom End Rot
 
 Blossom end rot appears as a dark, sunken, leathery patch on the bottom of the tomato fruit.
@@ -892,6 +894,8 @@ The soil should be fertile, loose, well-draining, and rich in organic matter.
 ## Do tomatoes grow better in raised beds or pots?
 
 Tomatoes can grow well in both, but raised beds are usually easier for larger plants because they provide more root space, more stable moisture, and better soil temperature. Pots are useful for patios and balconies, but they dry out faster and need more frequent watering.
+
+For a full container-growing guide, read: [How to Grow Tomatoes in Pots](/blog/grow-tomatoes-in-pots).
 
 ## Should I use tomato cages or stakes in raised beds?
 
