@@ -2,7 +2,7 @@
 title: "How to Grow Tomatoes in Raised Beds: The Complete Beginner's Guide"
 description: "Learn how to grow tomatoes in raised beds with this easy beginner guide. Discover the best raised bed depth, soil mix, tomato varieties, spacing, watering tips, feeding advice, and common mistakes to avoid."
 pubDate: 2026-06-26
-heroImage: "/images/raised-beds-1-hero.png"
+heroImage: "/images/raised-beds/raised-beds-1-hero.png"
 author: "Home Grown Tomatoes"
 tags: ["tomatoes", "growing guides", "raised beds", "raised bed gardening"]
 order: 3
@@ -37,6 +37,10 @@ The main benefits of growing tomatoes in raised beds include:
 Raised beds are also ideal for small spaces. You can grow several productive tomato plants in a compact area as long as you give them enough sunlight, spacing, support, water, and food.
 
 ## Choose the Best Location for a Tomato Raised Bed
+
+![Empty wooden raised bed in a sunny garden location.](/images/raised-beds/raised-beds-2-location.png)
+
+*Choose the sunniest spot you have before building or filling your raised bed.*
 
 Tomatoes need a sunny, warm, open position. Before building or filling your raised bed, choose the location carefully because this has a huge effect on how well your plants grow and ripen.
 
@@ -115,6 +119,10 @@ Bricks, stones, and concrete blocks are strong and permanent, but they can cost 
 If using treated timber, choose modern garden-safe treated wood and avoid old reclaimed timber that may contain unsafe preservatives. If you are unsure, you can line the inside walls of the raised bed with heavy-duty plastic, but leave the bottom open so water can drain freely.
 
 ## Best Soil Mix for Tomatoes in Raised Beds
+
+![Gardener mixing compost and soil in a raised bed for tomatoes.](/images/raised-beds/raised-beds-3-soil-mix.png)
+
+*A loose, compost-rich soil mix is the foundation of healthy tomato plants.*
 
 The soil is one of the most important parts of growing tomatoes in raised beds. Tomatoes are heavy-feeding plants, and they need soil that is rich, loose, moisture-retentive, and well-draining.
 
@@ -275,6 +283,10 @@ Weak light causes leggy seedlings. Leggy tomato plants have long, thin stems and
 
 ## Choosing Healthy Tomato Plants
 
+![Healthy tomato seedlings ready to be planted in a raised bed.](/images/raised-beds/raised-beds-4-seedlings.png)
+
+*Choose short, sturdy tomato plants with healthy green leaves.*
+
 If you do not want to grow tomatoes from seed, you can buy young plants from a garden centre or nursery.
 
 Choose plants that are:
@@ -327,6 +339,10 @@ Raised beds warm up faster than ground soil, so you may be able to plant slightl
 
 ## How to Plant Tomatoes Deeply
 
+![Tomato seedling being planted deeply in a raised bed.](/images/raised-beds/raised-beds-5-deep-planting.png)
+
+*Plant tomatoes deeply so they can grow extra roots along the buried stem.*
+
 Tomatoes are special because they can grow roots along their buried stems. This means you can plant them deeper than most vegetables.
 
 Deep planting creates a stronger root system, which helps the plant absorb more water and nutrients.
@@ -354,6 +370,10 @@ This method is especially useful in raised beds because the top layer of soil is
 
 ## Tomato Spacing in Raised Beds
 
+![Four tomato plants spaced evenly in a square raised bed.](/images/raised-beds/raised-beds-6-spacing.png)
+
+*In a 4x4 raised bed, four tomato plants gives good spacing and airflow.*
+
 Spacing is very important in raised beds. It is tempting to squeeze in extra plants, but overcrowding leads to poor airflow, more disease, smaller harvests, and harder maintenance.
 
 As a general rule:
@@ -370,6 +390,10 @@ In a **4 ft x 8 ft raised bed**, you can usually grow six to eight tomato plants
 For beginners, it is better to grow fewer plants well than to overcrowd the bed.
 
 ## Install Tomato Supports Early
+
+![Young tomato plants in a raised bed with stakes and cages installed.](/images/raised-beds/raised-beds-7-supports.png)
+
+*Install cages, stakes, or trellises when you plant to avoid damaging roots later.*
 
 Install supports on the same day you plant your tomatoes. This is one of the most useful practical tips for raised bed tomato growing.
 
@@ -420,6 +444,10 @@ This method is common for larger plantings and can work well in long raised beds
 
 ## Watering Tomatoes in Raised Beds
 
+![Watering tomato plants at the base in a raised bed.](/images/raised-beds/raised-beds-8-watering.png)
+
+*Water the soil, not the leaves, to reduce disease problems.*
+
 Consistent watering is one of the most important parts of growing tomatoes in raised beds.
 
 Raised beds drain well, which is good, but they can also dry out faster than in-ground beds. During hot weather, you may need to check the soil daily.
@@ -458,6 +486,10 @@ Water in the morning when you can. Morning watering gives the soil moisture befo
 
 ## Mulching Raised Bed Tomatoes
 
+![Tomato plants in a raised bed with straw mulch around them.](/images/raised-beds/raised-beds-9-mulch.png)
+
+*Mulch helps hold moisture, reduce weeds, and prevent soil splash.*
+
 Mulch is extremely useful for tomatoes in raised beds.
 
 A layer of mulch helps:
@@ -486,6 +518,10 @@ Wait until the soil has warmed before applying thick organic mulch. If you mulch
 
 ## Feeding Tomatoes in Raised Beds
 
+![Gardener feeding tomato plants in a raised bed.](/images/raised-beds/raised-beds-10-feeding.png)
+
+*Feed tomatoes once fruit begins to form to support a strong harvest.*
+
 Tomatoes are heavy feeders. They need a steady supply of nutrients to grow strong stems, healthy leaves, flowers, and fruit.
 
 Before planting, mix compost into the bed. You can also add a balanced organic fertiliser or a tomato fertiliser according to the packet instructions.
@@ -508,6 +544,10 @@ Continue feeding every 2 to 4 weeks, depending on the fertiliser type and the co
 If growing in a very rich compost-based bed, you may need less fertiliser. If leaves are pale, growth is weak, or fruiting is poor, the plants may need more nutrition.
 
 ## Pruning Tomatoes in Raised Beds
+
+![Gardener pinching out a tomato sucker from a tomato plant.](/images/raised-beds/raised-beds-11-pruning.png)
+
+*Pruning indeterminate tomatoes improves airflow and keeps plants manageable.*
 
 Pruning helps control growth, improve airflow, and make harvesting easier. However, not all tomatoes should be pruned the same way.
 
@@ -564,6 +604,10 @@ Always remove diseased leaves quickly and dispose of them away from the garden. 
 
 ## Pollinating Tomatoes in Raised Beds
 
+![Electric toothbrush being used to pollinate tomato flowers.](/images/raised-beds/raised-beds-12-pollination.png)
+
+*In still weather, gently vibrating tomato flowers can help with pollination.*
+
 Tomatoes are self-pollinating, which means each flower contains both male and female parts. However, the flowers still need movement to release pollen.
 
 Outdoors, wind and bees usually do the job. But if your raised bed is in a very sheltered spot, pollination may be weaker.
@@ -580,6 +624,10 @@ You can help pollination by:
 This is especially useful in still weather, greenhouses, or sheltered patios.
 
 ## Common Tomato Problems in Raised Beds
+
+![Grid showing common tomato problems including blossom end rot, cracking, yellow leaves, and hornworm.](/images/raised-beds/raised-beds-13-problems.png)
+
+*Most tomato problems are easier to fix when you spot them early.*
 
 Raised beds reduce some problems, but tomatoes can still suffer from pests, diseases, and environmental stress.
 
@@ -745,6 +793,10 @@ Low-growing herbs and flowers around the edges of the raised bed can work well.
 
 ## Harvesting Tomatoes
 
+![Gardener harvesting ripe tomatoes from a raised bed.](/images/raised-beds/raised-beds-14-harvest.png)
+
+*Pick tomatoes when they are fully coloured, firm, and ready to eat.*
+
 Tomatoes taste best when picked fully ripe, firm, and deeply coloured.
 
 A ripe tomato should come away from the vine with a gentle twist. Do not pull hard, as this can damage the plant.
@@ -756,6 +808,10 @@ If heavy rain is forecast, pick nearly ripe tomatoes early to prevent splitting.
 Tomatoes can ripen off the plant once they have reached the breaker stage, when they first begin to show colour.
 
 ## How to Store Fresh Tomatoes
+
+![Freshly picked tomatoes stored on a kitchen table at room temperature.](/images/raised-beds/raised-beds-15-storage.png)
+
+*Store fresh tomatoes at room temperature for the best flavour and texture.*
 
 Do not refrigerate fresh garden tomatoes unless they are already cut or about to spoil.
 
@@ -772,6 +828,10 @@ Store ripe tomatoes:
 Use ripe tomatoes as soon as possible for the best flavour.
 
 ## End-of-Season Raised Bed Tomato Care
+
+![Gardener cleaning old tomato plants from a raised bed at the end of the season.](/images/raised-beds/raised-beds-16-cleanup.png)
+
+*End-of-season cleanup helps reduce pests and diseases next year.*
 
 At the end of the season, remove old tomato plants from the raised bed. Do not leave diseased leaves, stems, or fruit in the soil.
 
@@ -858,3 +918,5 @@ Growing tomatoes in raised beds is one of the best ways to create the warm, rich
 The most important things to remember are simple: give tomatoes full sun, plant them deeply, keep the soil evenly moist, feed them once fruiting begins, and support them before they become heavy.
 
 Do those things well, and your raised bed can become one of the most productive parts of your garden.
+
+Happy growing!
