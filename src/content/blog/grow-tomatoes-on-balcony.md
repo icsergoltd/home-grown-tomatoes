@@ -4,7 +4,7 @@ description: "Learn how to grow delicious tomatoes on a balcony, patio, or small
 pubDate: 2026-06-20
 heroImage: "/images/balcony-tomatoes-hero.png"
 author: "Home Grown Tomatoes"
-tags: ["tomatoes", "balcony gardening", "container gardening"]
+tags: ["tomatoes", "growing guides", "balcony gardening", "container gardening"]
 order: 1
 ---
 
