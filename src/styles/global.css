@@ -157,7 +157,7 @@ body {
 			rgba(0, 0, 0, 0.15) 55%,
 			rgba(0, 0, 0, 0.05) 100%
 		),
-		url('/images/hero-tomato.png');
+		url('/images/home-page/hero-tomato.webp');
 
 	background-size: cover;
 	background-position: center center;
