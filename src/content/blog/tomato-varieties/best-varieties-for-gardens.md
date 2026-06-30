@@ -1,5 +1,3 @@
-
-
 ---
 title: "Best Tomato Varieties for Home Gardens"
 description: "Discover the best tomato varieties for home gardens, including cherry tomatoes, beefsteaks, sauce tomatoes, container tomatoes, and disease-resistant picks."
