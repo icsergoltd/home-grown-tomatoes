@@ -5,7 +5,7 @@ pubDate: 2026-06-29
 heroImage: "/images/varieties/varieties-1-hero.webp"
 author: "Home Grown Tomatoes"
 tags: ["tomatoes", "growing guides", "tomato varieties", "home garden tomatoes"]
-order: 4
+order: 3
 ---
 
 # Best Tomato Varieties for Home Gardens
