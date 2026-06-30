@@ -1,9 +1,11 @@
 ---
-title: "Best Tomato Varieties for Home Gardens"
-description: "Discover the best tomato varieties for home gardens, including cherry tomatoes, beefsteaks, sauce tomatoes, container tomatoes, and disease-resistant picks."
+title: "Best Tomato Varieties for Home Gardens: The Complete Beginner's Guide"
+description: "Learn the best tomato varieties for home gardens with this easy beginner guide. Discover the best cherry tomatoes, beefsteaks, sauce tomatoes, container tomatoes, disease-resistant picks, and colourful heirlooms to grow at home."
 pubDate: 2026-06-29
+heroImage: "/images/varieties/varieties-1-hero.webp"
 author: "Home Grown Tomatoes"
-tags: ["tomato varieties", "growing guides", "growing tomatoes", "home garden tomatoes"]
+tags: ["tomatoes", "growing guides", "tomato varieties", "home garden tomatoes"]
+order: 4
 ---
 
 # Best Tomato Varieties for Home Gardens
