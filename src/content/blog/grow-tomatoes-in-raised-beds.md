@@ -1,4 +1,12 @@
---- title: "How to Grow Tomatoes in Raised Beds: The Complete Beginner's Guide" description: "Learn how to grow tomatoes in raised beds with this easy beginner guide. Discover the best raised bed depth, soil mix, tomato varieties, spacing, watering tips, feeding advice, and common mistakes to avoid." pubDate: 2026-06-26 heroImage: "/images/raised-beds/raised-beds-1-hero.webp" author: "Home Grown Tomatoes" tags: ["tomatoes", "growing guides", "raised beds", "raised bed gardening"] order: 3 ---
+--- 
+title: "How to Grow Tomatoes in Raised Beds: The Complete Beginner's Guide" 
+description: "Learn how to grow tomatoes in raised beds with this easy beginner guide. Discover the best raised bed depth, soil mix, tomato varieties, spacing, watering tips, feeding advice, and common mistakes to avoid." 
+pubDate: 2026-06-26 
+heroImage: "/images/raised-beds/raised-beds-1-hero.webp" 
+author: "Home Grown Tomatoes" 
+tags: ["tomatoes", "growing guides", "raised beds", "raised bed gardening"] 
+order: 3 
+---
 
 # How to Grow Tomatoes in Raised Beds: The Complete Beginner's Guide
 
