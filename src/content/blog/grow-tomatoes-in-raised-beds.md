@@ -1,11 +1,11 @@
 ---
-title: "How to Grow Tomatoes in Raised Beds: The Complete Beginner's Guide"
-description: "Learn how to grow tomatoes in raised beds with this easy beginner guide. Discover the best raised bed depth, soil mix, tomato varieties, spacing, watering tips, feeding advice, and common mistakes to avoid."
-pubDate: 2026-06-26
-heroImage: "/images/raised-beds/raised-beds-1-hero.webp"
+title: "Best Tomato Varieties for Home Gardens: The Complete Beginner's Guide"
+description: "Learn the best tomato varieties for home gardens with this easy beginner guide. Discover the best cherry tomatoes, beefsteaks, sauce tomatoes, container tomatoes, disease-resistant picks, and colourful heirlooms to grow at home."
+pubDate: 2026-06-29
+heroImage: "/images/varieties/varieties-1-hero.webp"
 author: "Home Grown Tomatoes"
-tags: ["tomatoes", "growing guides", "raised beds", "raised bed gardening"]
-order: 3
+tags: ["tomatoes", "growing guides", "tomato varieties", "home garden tomatoes"]
+order: 4
 ---
 
 # How to Grow Tomatoes in Raised Beds: The Complete Beginner's Guide
