@@ -539,6 +539,8 @@ You do not need a big garden to grow tomatoes.
 
 Many tomato varieties grow beautifully in pots, raised beds, patios, balconies, and even hanging baskets.
 
+If you are planning to grow tomatoes in containers, you may also like this full guide: [How to Grow Tomatoes in Pots](/blog/growing-guides/grow-tomatoes-in-pots).
+
 The secret is to choose compact varieties and give them consistent watering.
 
 Look for names and descriptions that include:
@@ -1010,7 +1012,9 @@ Ask yourself these questions.
 
 If you have a large garden, you can grow tall indeterminate tomatoes.
 
-If you have a patio, balcony, or small raised bed, choose determinate, bush, patio, or dwarf varieties.
+If you have a patio, balcony, or small raised bed, choose determinate, bush, patio, or dwarf varieties. Read more details here: [How to Grow Tomatoes on a Balcony](/blog/growing-guides/grow-tomatoes-on-balcony).
+
+If raised beds are part of your plan, read this next: [How to Grow Tomatoes in Raised Beds](/blog/growing-guides/grow-tomatoes-in-raised-beds).
 
 ## 2. How do I want to use the tomatoes?
 
