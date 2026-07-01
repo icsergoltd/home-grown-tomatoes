@@ -251,7 +251,7 @@ Wet leaves encourage disease.
 
 Dry leaves stay healthier.
 
-Watering problems are one of the biggest reasons tomato leaves turn yellow. If your plant is already showing yellow leaves, use this guide to diagnose [why your tomato leaves are turning yellow](/blog/growing-guides/why-are-my-tomato-leaves-turning-yellow).
+Watering problems are one of the biggest reasons tomato leaves turn yellow. If your plant is already showing yellow leaves, use this guide to diagnose [why your tomato leaves are turning yellow](/blog/tomato-problems/why-are-my-tomato-leaves-turning-yellow).
 
 ---
 
@@ -391,7 +391,7 @@ Check watering first.
 
 It's the most common cause.
 
-For a full diagnosis, including watering problems, nutrient deficiencies, pests, and diseases, read our guide on [why tomato leaves turn yellow](/blog/growing-guides/why-are-my-tomato-leaves-turning-yellow).
+For a full diagnosis, including watering problems, nutrient deficiencies, pests, and diseases, read our guide on [why tomato leaves turn yellow](/blog/tomato-problems/why-are-my-tomato-leaves-turning-yellow).
 
 ### Blossom End Rot
 
