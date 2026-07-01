@@ -2,7 +2,7 @@
 title: "Best Tomato Varieties for Home Gardens: The Complete Beginner's Guide"
 description: "Learn the best tomato varieties for home gardens with this easy beginner guide. Discover the best cherry tomatoes, beefsteaks, sauce tomatoes, container tomatoes, disease-resistant picks, and colourful heirlooms to grow at home."
 pubDate: 2026-06-29
-heroImage: "/images/tomato-varieties/best-varieties-for-gardens/varieties-1-hero.webp"
+heroImage: "/images/growing-guides/tomato-varieties/best-varieties-for-gardens/varieties-1-hero.webp"
 author: "Home Grown Tomatoes"
 tags: ["tomatoes", "growing guides", "tomato varieties", "home garden tomatoes"]
 order: 4
@@ -26,7 +26,7 @@ In this guide, we will go through the best tomato varieties for home gardens in 
 
 ## First, Know What Kind of Tomato Plant You Need
 
-![Compact bush tomato plant beside a tall vining tomato plant on a trellis](/images/tomato-varieties/best-varieties-for-gardens/varieties-2-tomato-plant-types.webp)
+![Compact bush tomato plant beside a tall vining tomato plant on a trellis](/images/growing-guides/tomato-varieties/best-varieties-for-gardens/varieties-2-tomato-plant-types.webp)
 
 Before choosing a variety, it helps to understand how tomato plants grow.
 
@@ -174,7 +174,7 @@ Plant one or two reliable hybrids for dependable harvests, then add one or two h
 
 ## Best Cherry and Grape Tomatoes for Snacking
 
-![Colourful cherry and grape tomatoes in small bowls](/images/tomato-varieties/best-varieties-for-gardens/varieties-3-cherry-grape-tomatoes.webp)
+![Colourful cherry and grape tomatoes in small bowls](/images/growing-guides/tomato-varieties/best-varieties-for-gardens/varieties-3-cherry-grape-tomatoes.webp)
 
 Cherry and grape tomatoes are some of the easiest and most rewarding tomatoes to grow at home.
 
@@ -280,7 +280,7 @@ This is a great choice if you do not have a traditional garden bed.
 
 ## Best Slicing Tomatoes for Sandwiches and Salads
 
-![Thick slices of classic red tomatoes beside sandwich bread](/images/tomato-varieties/best-varieties-for-gardens/varieties-4-slicing-tomatoes.webp)
+![Thick slices of classic red tomatoes beside sandwich bread](/images/growing-guides/tomato-varieties/best-varieties-for-gardens/varieties-4-slicing-tomatoes.webp)
 
 Slicing tomatoes are the classic medium-to-large tomatoes you use for sandwiches, burgers, salads, and fresh plates.
 
@@ -353,7 +353,7 @@ And dependable is sometimes exactly what you need.
 
 ## Best Beefsteak Tomatoes for Big, Juicy Slices
 
-![Large colourful beefsteak tomatoes sliced open on a rustic wooden board](/images/tomato-varieties/best-varieties-for-gardens/varieties-5-beefsteak-tomatoes.webp)
+![Large colourful beefsteak tomatoes sliced open on a rustic wooden board](/images/growing-guides/tomato-varieties/best-varieties-for-gardens/varieties-5-beefsteak-tomatoes.webp)
 
 Beefsteak tomatoes are the big, impressive tomatoes that make you feel like a proper gardener.
 
@@ -440,7 +440,7 @@ This is a lovely variety if you want your tomato plate to look special.
 
 ## Best Paste and Roma Tomatoes for Sauce and Canning
 
-![Roma and plum tomatoes beside a saucepan and jar of tomato sauce](/images/tomato-varieties/best-varieties-for-gardens/varieties-6-paste-roma-tomatoes.webp)
+![Roma and plum tomatoes beside a saucepan and jar of tomato sauce](/images/growing-guides/tomato-varieties/best-varieties-for-gardens/varieties-6-paste-roma-tomatoes.webp)
 
 Paste tomatoes are the best choice for sauce, passata, salsa, tomato paste, and canning.
 
@@ -533,7 +533,7 @@ If you want big sauce tomatoes instead of small plum tomatoes, this is a strong 
 
 ## Best Tomatoes for Containers and Small Gardens
 
-![Compact tomato plants growing in pots on a sunny patio](/images/tomato-varieties/best-varieties-for-gardens/varieties-7-container-tomatoes.webp)
+![Compact tomato plants growing in pots on a sunny patio](/images/growing-guides/tomato-varieties/best-varieties-for-gardens/varieties-7-container-tomatoes.webp)
 
 You do not need a big garden to grow tomatoes.
 
@@ -625,7 +625,7 @@ If you want sauce tomatoes but only have a balcony or small patio, this is worth
 
 ## Best Tomatoes for Cool or Short Growing Seasons
 
-![Healthy tomato plants growing outdoors in sunlight for cool and hot climates](/images/tomato-varieties/best-varieties-for-gardens/varieties-8-cool-hot-climate-tomatoes.webp)
+![Healthy tomato plants growing outdoors in sunlight for cool and hot climates](/images/growing-guides/tomato-varieties/best-varieties-for-gardens/varieties-8-cool-hot-climate-tomatoes.webp)
 
 If your summers are short, cool, or unpredictable, choose tomatoes that mature quickly.
 
@@ -765,7 +765,7 @@ If you want sauce tomatoes in a hot climate, this is a strong choice.
 
 ## Best Disease-Resistant Tomato Varieties
 
-![Strong healthy tomato plant with clean green leaves and red fruit](/images/tomato-varieties/best-varieties-for-gardens/varieties-9-disease-resistant-tomatoes.webp)
+![Strong healthy tomato plant with clean green leaves and red fruit](/images/growing-guides/tomato-varieties/best-varieties-for-gardens/varieties-9-disease-resistant-tomatoes.webp)
 
 Disease resistance matters a lot if you have struggled with tomato problems before.
 
@@ -839,7 +839,7 @@ This is a good choice for gardeners who want a classic red tomato with better re
 
 ## Best Unique and Colourful Tomato Varieties
 
-![Colourful unusual tomato varieties including green striped, yellow, orange, red and dark purple tomatoes](/images/tomato-varieties/best-varieties-for-gardens/varieties-10-colourful-tomato-varieties.webp)
+![Colourful unusual tomato varieties including green striped, yellow, orange, red and dark purple tomatoes](/images/growing-guides/tomato-varieties/best-varieties-for-gardens/varieties-10-colourful-tomato-varieties.webp)
 
 Once you have grown a few basic tomatoes, it is fun to try something unusual.
 
