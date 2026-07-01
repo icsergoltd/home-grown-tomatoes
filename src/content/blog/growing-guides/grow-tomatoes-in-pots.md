@@ -3,7 +3,7 @@
 title: "How to Grow Tomatoes in Pots: The Complete Beginner's Guide"
 description: "Learn how to grow tomatoes in pots with this easy beginner guide. Discover the best tomato varieties, pot sizes, compost, watering tips, feeding advice, and common mistakes to avoid."
 pubDate: 2026-06-21
-heroImage: "/images/pots/pots-1-hero.webp"
+heroImage: "/images/growing-guides/grow-tomatoes-in-pots/pots-1-hero.webp"
 author: "Home Grown Tomatoes"
 tags: ["tomatoes", "growing guides", "container gardening", "potted tomatoes"]
 order: 2
@@ -17,7 +17,7 @@ A sunny patio, balcony, doorstep, driveway, or small corner by a wall can be eno
 
 Growing tomatoes in pots is one of the most satisfying ways to start gardening. You do not need a big garden, raised beds, or a greenhouse. A sunny balcony, patio, doorstep, driveway, or small corner by a wall can be enough to grow sweet, juicy, homegrown tomatoes.
 
-For more balcony-specific advice, including wind, sunlight, watering, and small-space setup, read our full guide on [how to grow tomatoes on a balcony](/blog/grow-tomatoes-on-balcony).
+For more balcony-specific advice, including wind, sunlight, watering, and small-space setup, read our full guide on [how to grow tomatoes on a balcony](/blog/growing-guides/grow-tomatoes-on-balcony).
 
 The best part? Potted tomatoes are easy to keep close to the house, easy to water, and easy to check every day. There is something genuinely joyful about walking past your tomato plant in the morning and seeing new yellow flowers, green fruits swelling, and the first red tomato slowly ripening in the sun.
 
@@ -108,7 +108,7 @@ The pot is your tomato plant’s whole world. If the container is too small, the
 
 A bigger pot gives the roots more room, holds moisture for longer, and makes watering much easier.
 
-![Two tomato plants comparing a tiny pot with a large pot for better tomato growth](/images/pots/pots-2-size.webp)
+![Two tomato plants comparing a tiny pot with a large pot for better tomato growth](/images/growing-guides/grow-tomatoes-in-pots/pots-2-size.webp)
 
 ### Tomato Pot Size Guide
 
@@ -172,7 +172,7 @@ Do not fill your tomato pot with ordinary garden soil.
 
 Garden soil is usually too heavy for containers. It can become compacted, drain badly, and may carry weeds, pests, or disease. In a pot, tomatoes need a lighter growing medium that holds moisture but still lets air reach the roots.
 
-![Hands filling a large terracotta pot with light potting compost for tomatoes](/images/pots/pots-3-potting-mix.webp)
+![Hands filling a large terracotta pot with light potting compost for tomatoes](/images/growing-guides/grow-tomatoes-in-pots/pots-3-potting-mix.webp)
 
 Use:
 
@@ -247,7 +247,7 @@ Tomatoes have a special trick: they can grow roots from their buried stems.
 
 This means you can plant them deeper than they were in their original pot. Deep planting creates a stronger root system, which helps the plant take up more water and nutrients.
 
-![Normal planting compared with deep planting a tomato seedling to create stronger roots](/images/pots/pots-4-deep-planting.webp)
+![Normal planting compared with deep planting a tomato seedling to create stronger roots](/images/growing-guides/grow-tomatoes-in-pots/pots-4-deep-planting.webp)
 
 ### How to Plant a Tomato in a Pot
 
@@ -269,7 +269,7 @@ Add support at planting time, not later.
 
 If you push a cane or cage into the pot after the plant has grown, you may damage the roots. It is much easier and safer to put support in while planting.
 
-![Young tomato plant supported early with a bamboo cane and soft tie](/images/pots/pots-5-support.webp)
+![Young tomato plant supported early with a bamboo cane and soft tie](/images/growing-guides/grow-tomatoes-in-pots/pots-5-support.webp)
 
 Good support options include:
 
@@ -328,7 +328,7 @@ Do not let the pot swing between bone dry and soaking wet. That stress can lead 
 
 Push your finger about 5cm into the compost.
 
-![Finger test for checking moisture before watering potted tomatoes](/images/pots/pots-6-finger-test.webp)
+![Finger test for checking moisture before watering potted tomatoes](/images/growing-guides/grow-tomatoes-in-pots/pots-6-finger-test.webp)
 
 * If it feels moist, wait.
 * If it feels dry, water.
@@ -360,7 +360,7 @@ Tomatoes are hungry plants. In pots, nutrients wash out gradually as you water, 
 
 At planting time, you can mix in a slow-release fertiliser suitable for vegetables. Then, once the first flowers or small fruits appear, begin feeding with a tomato fertiliser.
 
-![Adding liquid tomato feed to a watering can beside a potted tomato plant](/images/pots/pots-7-feeding.webp)
+![Adding liquid tomato feed to a watering can beside a potted tomato plant](/images/growing-guides/grow-tomatoes-in-pots/pots-7-feeding.webp)
 
 ### Simple Feeding Schedule
 
@@ -413,7 +413,7 @@ Tomatoes are self-pollinating, which means each flower contains what it needs to
 
 Outdoors, wind and insects usually help with this. On a sheltered balcony or inside a greenhouse, the air can be very still.
 
-![Hand gently tapping tomato flowers to help pollination on a potted tomato plant](/images/pots/pots-9-pollination.webp)
+![Hand gently tapping tomato flowers to help pollination on a potted tomato plant](/images/growing-guides/grow-tomatoes-in-pots/pots-9-pollination.webp)
 
 To help pollination, gently tap or shake the flower clusters when they are open. You can also lightly tap the support cane.
 
@@ -425,7 +425,7 @@ This only takes a few seconds and can help more flowers turn into tomatoes.
 
 Even healthy tomato plants can run into problems. The good news is that most issues are easy to spot early.
 
-![Four common problems on potted tomato plants including blossom end rot, yellow leaves, fruit splitting and leaf spots](/images/pots/pots-8-problems.webp)
+![Four common problems on potted tomato plants including blossom end rot, yellow leaves, fruit splitting and leaf spots](/images/growing-guides/grow-tomatoes-in-pots/pots-8-problems.webp)
 
 ### Blossom End Rot
 
@@ -473,7 +473,7 @@ A few yellow lower leaves are normal as the plant ages. But lots of yellowing ca
 
 Check the compost before guessing. If it is wet and heavy, reduce watering. If it is dry and pulling away from the pot edge, water deeply.
 
-For a full diagnosis, including watering problems, nutrient deficiencies, pests, and diseases, read our guide on [why tomato leaves turn yellow](/blog/why-are-my-tomato-leaves-turning-yellow).
+For a full diagnosis, including watering problems, nutrient deficiencies, pests, and diseases, read our guide on [why tomato leaves turn yellow](/blog/tomato-problems/why-are-my-tomato-leaves-turning-yellow).
 
 ### Aphids
 
@@ -551,7 +551,7 @@ Tomatoes are ready to harvest when they have good colour, feel slightly firm, an
 
 For the best flavour, let tomatoes ripen on the plant when possible.
 
-![Basket of freshly picked tomatoes beside a large potted tomato plant on a sunny patio](/images/pots/pots-10-harvest.webp)
+![Basket of freshly picked tomatoes beside a large potted tomato plant on a sunny patio](/images/growing-guides/grow-tomatoes-in-pots/pots-10-harvest.webp)
 
 However, you can pick tomatoes slightly early if:
 
