@@ -2,7 +2,7 @@
 title: "How to Grow Tomatoes on a Balcony: The Complete Beginner's Guide to Big Harvests in Small Spaces"
 description: "Learn how to grow delicious tomatoes on a balcony, patio, or small outdoor space. Discover the best tomato varieties, pots, soil, watering tips, and secrets to a huge harvest."
 pubDate: 2026-06-20
-heroImage: "/images/balcony/balcony-tomatoes-hero.webp"
+heroImage: "/images/growing-guides/grow-tomatoes-on-balcony/balcony-tomatoes-hero.webp"
 author: "Home Grown Tomatoes"
 tags: ["tomatoes", "growing guides", "balcony gardening", "container gardening"]
 order: 1
@@ -46,7 +46,7 @@ No garden required.
 
 ## Step 1: Choose the Right Tomato Variety
 
-![Best balcony tomato varieties](/images/balcony/balcony-2-variety.webp)
+![Best balcony tomato varieties](/images/growing-guides/grow-tomatoes-on-balcony/balcony-2-variety.webp)
 
 This is where most beginners succeed or fail.
 
@@ -89,7 +89,7 @@ For maximum harvests, indeterminate varieties can be fantastic if you have enoug
 
 ## Step 2: Bigger Pots Mean Bigger Harvests
 
-![Large tomato containers on a balcony](/images/balcony/balcony-3-container.webp)
+![Large tomato containers on a balcony](/images/growing-guides/grow-tomatoes-on-balcony/balcony-3-container.webp)
 
 Here's a simple rule:
 
@@ -117,13 +117,13 @@ If your pot doesn't have drainage holes, don't use it.
 
 Roots sitting in water quickly rot, and once that happens, recovery is difficult.
 
-For a deeper container setup guide, including pot size, drainage, compost, and support, read our full guide on [how to grow tomatoes in pots](/blog/grow-tomatoes-in-pots).
+For a deeper container setup guide, including pot size, drainage, compost, and support, read our full guide on [how to grow tomatoes in pots](/blog/growing-guides/grow-tomatoes-in-pots).
 
 ---
 
 ## Step 3: Use the Right Potting Mix
 
-![Tomato soil is being prepared](/images/balcony/balcony-14-soil.webp)
+![Tomato soil is being prepared](/images/growing-guides/grow-tomatoes-on-balcony/balcony-14-soil.webp)
 
 One of the biggest mistakes beginners make is filling containers with garden soil.
 
@@ -169,13 +169,13 @@ and feed with liquid tomato fertiliser once flowers appear.
 
 Your future harvest will thank you.
 
-If you want a complete beginner-friendly breakdown of container growing, our guide to [growing tomatoes in pots](/blog/grow-tomatoes-in-pots) explains the full setup step by step.
+If you want a complete beginner-friendly breakdown of container growing, our guide to [growing tomatoes in pots](/blog/growing-guides/grow-tomatoes-in-pots) explains the full setup step by step.
 
 ---
 
 ## Step 4: Find the Sunniest Spot Available
 
-![Beautiful south-facing balcony packed with tomato plants](/images/balcony/balcony-5-sunlight.webp)
+![Beautiful south-facing balcony packed with tomato plants](/images/growing-guides/grow-tomatoes-on-balcony/balcony-5-sunlight.webp)
 
 Tomatoes are sunshine addicts.
 
@@ -209,7 +209,7 @@ If your balcony is exposed, place pots against a wall or install simple wind pro
 
 ## Step 5: Master Watering
 
-![Checking tomato soil moisture with finger](/images/balcony/balcony-6-watering.webp)
+![Checking tomato soil moisture with finger](/images/growing-guides/grow-tomatoes-on-balcony/balcony-6-watering.webp)
 
 If there is one secret to growing tomatoes successfully, it's this:
 
@@ -251,13 +251,13 @@ Wet leaves encourage disease.
 
 Dry leaves stay healthier.
 
-Watering problems are one of the biggest reasons tomato leaves turn yellow. If your plant is already showing yellow leaves, use this guide to diagnose [why your tomato leaves are turning yellow](/blog/why-are-my-tomato-leaves-turning-yellow).
+Watering problems are one of the biggest reasons tomato leaves turn yellow. If your plant is already showing yellow leaves, use this guide to diagnose [why your tomato leaves are turning yellow](/blog/growing-guides/why-are-my-tomato-leaves-turning-yellow).
 
 ---
 
 ## Step 6: Feed Your Tomato Plants
 
-![Tomato plant being given fertilizer](/images/balcony/balcony-13-feeding.webp)
+![Tomato plant being given fertilizer](/images/growing-guides/grow-tomatoes-on-balcony/balcony-13-feeding.webp)
 
 Tomatoes are hungry plants.
 
@@ -293,7 +293,7 @@ If your plant looks like a jungle but isn't producing tomatoes, switch to a toma
 
 ## Step 7: Support Your Plants Early
 
-![Tomato plants being supported by trellises](/images/balcony/balcony-12-support.webp)
+![Tomato plants being supported by trellises](/images/growing-guides/grow-tomatoes-on-balcony/balcony-12-support.webp)
 
 Tomato plants are a bit like enthusiastic puppies.
 
@@ -329,7 +329,7 @@ Plants need room to grow.
 
 ## Step 8: Prune for Better Results
 
-![Close-up of tomato suckers being pinched out](/images/balcony/balcony-7-pruning.webp)
+![Close-up of tomato suckers being pinched out](/images/growing-guides/grow-tomatoes-on-balcony/balcony-7-pruning.webp)
 
 Pruning sounds complicated.
 
@@ -351,7 +351,7 @@ For balcony gardeners with limited space, pruning can make a huge difference.
 
 ## Step 9: Help Pollination Along
 
-![Electric toothbrush vibrating tomato flower](/images/balcony/balcony-8-pollination.webp)
+![Electric toothbrush vibrating tomato flower](/images/growing-guides/grow-tomatoes-on-balcony/balcony-8-pollination.webp)
 
 Tomatoes are self-pollinating.
 
@@ -377,7 +377,7 @@ It works surprisingly well.
 
 ## Common Balcony Tomato Problems
 
-![Blossom end rot, Yellow leaves, Fruit splitting, Blight](/images/balcony/balcony-9-problems.webp)
+![Blossom end rot, Yellow leaves, Fruit splitting, Blight](/images/growing-guides/grow-tomatoes-on-balcony/balcony-9-problems.webp)
 
 ### Yellow Leaves
 
@@ -391,7 +391,7 @@ Check watering first.
 
 It's the most common cause.
 
-For a full diagnosis, including watering problems, nutrient deficiencies, pests, and diseases, read our guide on [why tomato leaves turn yellow](/blog/why-are-my-tomato-leaves-turning-yellow).
+For a full diagnosis, including watering problems, nutrient deficiencies, pests, and diseases, read our guide on [why tomato leaves turn yellow](/blog/growing-guides/why-are-my-tomato-leaves-turning-yellow).
 
 ### Blossom End Rot
 
@@ -423,7 +423,7 @@ Prevent it by:
 
 ## Harvesting Your Tomatoes
 
-![A basket full of harvested tomatoes](/images/balcony/balcony-10-basket.webp)
+![A basket full of harvested tomatoes](/images/growing-guides/grow-tomatoes-on-balcony/balcony-10-basket.webp)
 
 This is the best part.
 
@@ -449,7 +449,7 @@ The difference is remarkable.
 
 ## Final Thoughts
 
-![A sliced tomato next to fresh sourdough bread](/images/balcony/balcony-11-final-hero.webp)
+![A sliced tomato next to fresh sourdough bread](/images/growing-guides/grow-tomatoes-on-balcony/balcony-11-final-hero.webp)
 
 Growing tomatoes on a balcony proves that you don't need acres of land to grow amazing food.
 
