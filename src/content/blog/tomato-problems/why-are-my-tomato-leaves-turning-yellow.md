@@ -5,7 +5,7 @@ pubDate: 2026-06-24
 heroImage: "/images/tomato-problems/why-are-my-tomato-leaves-turning-yellow/yellow-leaves-1-hero.webp"
 author: "Home Grown Tomatoes"
 tags: ["tomatoes", "tomato problems", "yellow leaves", "plant care"]
-order: 3
+order: 1
 ---
 
 **Yellow tomato leaves can look worrying, but they are not always bad news.**
