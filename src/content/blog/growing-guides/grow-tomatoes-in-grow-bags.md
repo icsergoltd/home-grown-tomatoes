@@ -8,7 +8,6 @@ tags: ["tomatoes", "growing guides", "grow bags", "container tomatoes"]
 order: 5
 ---
 
-# How to Grow Tomatoes in Grow Bags: The Complete Beginner's Guide
 
 Growing tomatoes in grow bags is one of the simplest ways to grow fresh tomatoes at home, especially if you do not have much garden space.
 
