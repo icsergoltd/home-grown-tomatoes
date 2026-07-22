@@ -8,7 +8,6 @@ tags: ["tomatoes", "growing guides", "container tomatoes", "tomato soil"]
 order: 8
 ---
 
-# Best Soil for Tomatoes in Pots: A Simple Beginner's Guide
 
 The best soil for tomatoes in pots is **a light, moisture-retentive potting mix that also drains freely and leaves plenty of air around the roots**.
 
