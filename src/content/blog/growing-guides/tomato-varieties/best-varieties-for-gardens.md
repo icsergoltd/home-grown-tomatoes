@@ -8,7 +8,6 @@ tags: ["tomatoes", "growing guides", "tomato varieties", "home garden tomatoes"]
 order: 4
 ---
 
-# Best Tomato Varieties for Home Gardens
 
 Choosing the best tomato varieties for your home garden can feel a little overwhelming at first.
 
