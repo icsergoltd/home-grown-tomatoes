@@ -8,7 +8,6 @@ tags: ["tomatoes", "growing guides", "raised beds", "raised bed gardening"]
 order: 3 
 ---
 
-# How to Grow Tomatoes in Raised Beds: The Complete Beginner's Guide
 
 Growing tomatoes in raised beds is one of the easiest ways to get healthier plants, better soil, fewer drainage problems, and a more reliable harvest. If your garden soil is heavy clay, compacted, rocky, poor in nutrients, or difficult to work with, a raised bed gives you much more control from the start.
 
