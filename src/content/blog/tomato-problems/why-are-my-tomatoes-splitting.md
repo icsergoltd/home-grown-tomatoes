@@ -105,7 +105,7 @@ Allowing the plant to wilt or the root area to dry severely, then trying to comp
 
 Tomatoes do not need identical amounts of water every day, but they grow best when the root zone remains reasonably and consistently moist.
 
-For container-grown plants, see our detailed guide to [how often to water tomatoes in pots](/blog/how-often-to-water-tomatoes-in-pots/).
+For container-grown plants, see our detailed guide to [how often to water tomatoes in pots](/blog/growing-guides/how-often-to-water-tomatoes-in-pots/).
 
 ### 3. Overwatering after the soil has dried out
 
@@ -153,7 +153,7 @@ Usually, no.
 
 A calcium-uptake problem is associated more closely with **blossom end rot**, which causes a dark, sunken patch at the bottom of the fruit. Splitting normally appears around the stem or across the skin and is driven mainly by rapid growth and changes in moisture.
 
-Both problems can be made worse by inconsistent watering, which is why they sometimes appear at the same time. Learn how to tell them apart in our guide to [blossom end rot on tomatoes](/blog/blossom-end-rot-on-tomatoes/).
+Both problems can be made worse by inconsistent watering, which is why they sometimes appear at the same time. Learn how to tell them apart in our guide to [blossom end rot on tomatoes](/blog/tomato-problems/blossom-end-rot-on-tomatoes/).
 
 Adding calcium will not repair a tomato that has already split, and it is unlikely to solve cracking when the real problem is irregular watering.
 
@@ -217,7 +217,7 @@ Good drainage does not mean allowing the plant to dry out. It means that excess 
 
 Heavy, compacted ground can remain saturated after rain, while very sandy soil may switch rapidly between wet and dry. Improving the soil with organic matter can make moisture levels more stable.
 
-For container plants, use a suitable potting mix and make sure drainage holes are open. Our guide to [growing tomatoes in pots](/blog/grow-tomatoes-in-pots/) explains the full setup.
+For container plants, use a suitable potting mix and make sure drainage holes are open. Our guide to [growing tomatoes in pots](/blog/growing-guides/grow-tomatoes-in-pots/) explains the full setup.
 
 ### Protect the leaf canopy
 
