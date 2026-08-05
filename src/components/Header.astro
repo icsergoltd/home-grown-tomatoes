@@ -9,7 +9,7 @@ const isActive = (path: string) => {
 
 <header class="site-header">
 	<a class="brand" href="/">
-		<div class="tomato-logo">🍅</div>
+		<img class="tomato-logo" src="/images/logo-home-grown-tomatoes.png" alt="Home Grown Tomatoes logo" />
 		<div class="brand-text">
 			<div class="brand-title">Home Grown Tomatoes</div>
 			<div class="brand-tagline">Grow better. Eat better.</div>
@@ -91,8 +91,11 @@ const isActive = (path: string) => {
 	}
 
 	.tomato-logo {
-		font-size: 54px;
-		line-height: 1;
+		width: 64px;
+		height: 64px;
+		display: block;
+		object-fit: contain;
+		border-radius: 14px;
 		flex: 0 0 auto;
 	}
 
@@ -200,7 +203,8 @@ const isActive = (path: string) => {
 		}
 
 		.tomato-logo {
-			font-size: 44px;
+			width: 52px;
+			height: 52px;
 		}
 
 		.brand-title {
