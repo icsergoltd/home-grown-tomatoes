@@ -46,7 +46,7 @@ const getPostUrl = (post) => `/blog/${post.id.replace(/\.mdx?$/, '')}/`;
 			</section>
 
 			<section class="search-results" aria-label="Search results">
-				{posts.map((post) => {
+				{posts.map((post, index) => {
 					const url = getPostUrl(post);
 					const tags = post.data.tags ?? [];
 					const searchText = `
@@ -58,7 +58,16 @@ const getPostUrl = (post) => `/blog/${post.id.replace(/\.mdx?$/, '')}/`;
 					`.toLowerCase();
 
 					return (
-						<article class="search-card" data-search={searchText}>
+						<article
+							class="search-card"
+							data-search={searchText}
+							data-title={post.data.title.toLowerCase()}
+							data-description={post.data.description.toLowerCase()}
+							data-tags={tags.join(' ').toLowerCase()}
+							data-url={url.toLowerCase()}
+							data-body={(post.body ?? '').toLowerCase()}
+							data-original-index={index}
+						>
 							{post.data.heroImage && (
 								<a class="search-image" href={url} aria-label={post.data.title}>
 									<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
@@ -96,31 +105,81 @@ const getPostUrl = (post) => `/blog/${post.id.replace(/\.mdx?$/, '')}/`;
 			const searchInput = document.querySelector('#siteSearch');
 			const resultCount = document.querySelector('#resultCount');
 			const emptyMessage = document.querySelector('#emptyMessage');
+			const resultsContainer = document.querySelector('.search-results');
 			const cards = Array.from(document.querySelectorAll('.search-card'));
 
-			if (searchInput instanceof HTMLInputElement && resultCount && emptyMessage) {
+			if (
+				searchInput instanceof HTMLInputElement &&
+				resultCount &&
+				emptyMessage &&
+				resultsContainer
+			) {
 				const urlParams = new URLSearchParams(window.location.search);
 				const initialQuery = urlParams.get('q') || '';
 
 				searchInput.value = initialQuery;
 
+				const getScore = (card, terms) => {
+					const title = card.getAttribute('data-title') || '';
+					const description = card.getAttribute('data-description') || '';
+					const tags = card.getAttribute('data-tags') || '';
+					const url = card.getAttribute('data-url') || '';
+					const body = card.getAttribute('data-body') || '';
+
+					let score = 0;
+
+					terms.forEach((term) => {
+						if (title.includes(term)) score += 1000;
+						if (description.includes(term)) score += 500;
+						if (tags.includes(term)) score += 300;
+						if (url.includes(term)) score += 150;
+						if (body.includes(term)) score += 50;
+					});
+
+					const exactQuery = terms.join(' ');
+
+					if (title.includes(exactQuery)) score += 2000;
+					if (description.includes(exactQuery)) score += 1000;
+					if (tags.includes(exactQuery)) score += 600;
+
+					return score;
+				};
+
 				const runSearch = () => {
 					const query = searchInput.value.trim().toLowerCase();
 					const terms = query.split(/\s+/).filter(Boolean);
 
-					let visibleCount = 0;
+					let visibleCards = [];
 
 					cards.forEach((card) => {
 						const searchText = card.getAttribute('data-search') || '';
 						const matches = terms.length === 0 || terms.every((term) => searchText.includes(term));
 
 						if (matches) {
+							const score = terms.length === 0 ? 0 : getScore(card, terms);
 							card.removeAttribute('hidden');
-							visibleCount++;
+							visibleCards.push({ card, score });
 						} else {
 							card.setAttribute('hidden', '');
 						}
 					});
+
+					if (terms.length > 0) {
+						visibleCards.sort((a, b) => {
+							if (b.score !== a.score) return b.score - a.score;
+
+							const aIndex = Number(a.card.getAttribute('data-original-index') || 0);
+							const bIndex = Number(b.card.getAttribute('data-original-index') || 0);
+
+							return aIndex - bIndex;
+						});
+					}
+
+					visibleCards.forEach(({ card }) => {
+						resultsContainer.appendChild(card);
+					});
+
+					const visibleCount = visibleCards.length;
 
 					if (terms.length === 0) {
 						resultCount.textContent = `Showing all ${cards.length} articles.`;
