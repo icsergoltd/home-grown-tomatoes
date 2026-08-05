@@ -2,39 +2,318 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort((a, b) => {
+	const aOrder = a.data.order ?? 999;
+	const bOrder = b.data.order ?? 999;
+
+	if (aOrder !== bOrder) {
+		return aOrder - bOrder;
+	}
+
+	return a.data.title.localeCompare(b.data.title);
+});
+
+const getPostUrl = (post) => `/blog/${post.id.replace(/\.mdx?$/, '')}/`;
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title="Search - Home Grown Tomatoes" description="Search Home Grown Tomatoes." />
+		<BaseHead
+			title="Search - Home Grown Tomatoes"
+			description="Search tomato growing guides, tomato problems, varieties, and product reviews on Home Grown Tomatoes."
+		/>
 	</head>
 	<body>
 		<Header />
 
 		<main class="page">
-			<h1>Search</h1>
-			<p>Search functionality is coming soon.</p>
+			<section class="search-hero">
+				<h1>Search</h1>
+				<p>Search tomato growing guides, tomato problems, varieties, and product reviews.</p>
 
-			<input type="text" placeholder="Search tomato guides..." />
+				<label class="sr-only" for="siteSearch">Search articles</label>
+				<input
+					id="siteSearch"
+					type="search"
+					placeholder="Search tomato guides..."
+					autocomplete="off"
+				/>
+
+				<p id="resultCount" class="result-count" aria-live="polite"></p>
+			</section>
+
+			<section class="search-results" aria-label="Search results">
+				{posts.map((post) => {
+					const url = getPostUrl(post);
+					const tags = post.data.tags ?? [];
+					const searchText = `
+						${post.data.title}
+						${post.data.description}
+						${tags.join(' ')}
+						${url}
+						${post.body ?? ''}
+					`.toLowerCase();
+
+					return (
+						<article class="search-card" data-search={searchText}>
+							{post.data.heroImage && (
+								<a class="search-image" href={url} aria-label={post.data.title}>
+									<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+								</a>
+							)}
+
+							<div class="search-content">
+								<div class="tag-row">
+									{tags.slice(0, 3).map((tag) => (
+										<span>{tag}</span>
+									))}
+								</div>
+
+								<h2>
+									<a href={url}>{post.data.title}</a>
+								</h2>
+
+								<p>{post.data.description}</p>
+
+								<a class="read-more" href={url}>Read article →</a>
+							</div>
+						</article>
+					);
+				})}
+			</section>
+
+			<p id="emptyMessage" class="empty-message" hidden>
+				No articles found. Try a different search term.
+			</p>
 		</main>
 
 		<Footer />
+
+		<script>
+			const searchInput = document.querySelector('#siteSearch');
+			const resultCount = document.querySelector('#resultCount');
+			const emptyMessage = document.querySelector('#emptyMessage');
+			const cards = Array.from(document.querySelectorAll('.search-card'));
+
+			if (searchInput instanceof HTMLInputElement && resultCount && emptyMessage) {
+				const urlParams = new URLSearchParams(window.location.search);
+				const initialQuery = urlParams.get('q') || '';
+
+				searchInput.value = initialQuery;
+
+				const runSearch = () => {
+					const query = searchInput.value.trim().toLowerCase();
+					const terms = query.split(/\s+/).filter(Boolean);
+
+					let visibleCount = 0;
+
+					cards.forEach((card) => {
+						const searchText = card.getAttribute('data-search') || '';
+						const matches = terms.length === 0 || terms.every((term) => searchText.includes(term));
+
+						if (matches) {
+							card.removeAttribute('hidden');
+							visibleCount++;
+						} else {
+							card.setAttribute('hidden', '');
+						}
+					});
+
+					if (terms.length === 0) {
+						resultCount.textContent = `Showing all ${cards.length} articles.`;
+						emptyMessage.setAttribute('hidden', '');
+					} else if (visibleCount === 1) {
+						resultCount.textContent = `1 article found.`;
+						emptyMessage.setAttribute('hidden', '');
+					} else if (visibleCount > 1) {
+						resultCount.textContent = `${visibleCount} articles found.`;
+						emptyMessage.setAttribute('hidden', '');
+					} else {
+						resultCount.textContent = `0 articles found.`;
+						emptyMessage.removeAttribute('hidden');
+					}
+
+					const newUrl = new URL(window.location.href);
+
+					if (query) {
+						newUrl.searchParams.set('q', query);
+					} else {
+						newUrl.searchParams.delete('q');
+					}
+
+					window.history.replaceState({}, '', newUrl);
+				};
+
+				searchInput.addEventListener('input', runSearch);
+				runSearch();
+			}
+		</script>
 	</body>
 </html>
 
 <style>
 	.page {
-		max-width: 1000px;
+		max-width: 1100px;
 		margin: 80px auto;
 		padding: 20px;
 	}
 
+	.search-hero {
+		margin-bottom: 36px;
+	}
+
+	.search-hero h1 {
+		font-size: clamp(2.5rem, 5vw, 4.5rem);
+		line-height: 1.05;
+		margin-bottom: 18px;
+		color: #121212;
+	}
+
+	.search-hero p {
+		font-size: 1.15rem;
+		color: #243024;
+	}
+
 	input {
 		width: 100%;
-		padding: 16px;
-		font-size: 18px;
-		border: 1px solid #ddd;
-		border-radius: 8px;
+		margin-top: 18px;
+		padding: 18px 20px;
+		font-size: 1.1rem;
+		border: 2px solid #cfd8c6;
+		border-radius: 12px;
+		background: white;
+		color: #102810;
+	}
+
+	input:focus {
+		outline: none;
+		border-color: #6f9633;
+		box-shadow: 0 0 0 4px rgba(111, 150, 51, 0.18);
+	}
+
+	.result-count {
+		margin-top: 14px;
+		font-weight: 700;
+		color: #456b17;
+	}
+
+	.search-results {
+		display: grid;
+		gap: 22px;
+	}
+
+	.search-card {
+		display: grid;
+		grid-template-columns: 280px 1fr;
+		gap: 22px;
+		background: white;
+		border-radius: 16px;
+		overflow: hidden;
+		box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+	}
+
+	.search-card[hidden] {
+		display: none;
+	}
+
+	.search-image {
+		display: block;
+		height: 100%;
+		min-height: 190px;
+		background: #f4f1ea;
+	}
+
+	.search-image img {
+		width: 100%;
+		height: 100%;
+		display: block;
+		object-fit: cover;
+		border-radius: 0;
+	}
+
+	.search-content {
+		padding: 24px 24px 24px 0;
+	}
+
+	.tag-row {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px;
+		margin-bottom: 10px;
+	}
+
+	.tag-row span {
+		display: inline-block;
+		background: #eef5e8;
+		color: #456b17;
+		font-size: 0.78rem;
+		font-weight: 700;
+		text-transform: uppercase;
+		padding: 5px 9px;
+		border-radius: 999px;
+	}
+
+	.search-content h2 {
+		font-size: 1.55rem;
+		line-height: 1.25;
+		margin: 0 0 10px;
+	}
+
+	.search-content h2 a {
+		color: #102810;
+		text-decoration: none;
+	}
+
+	.search-content h2 a:hover {
+		color: #456b17;
+	}
+
+	.search-content p {
+		margin: 0;
+		line-height: 1.6;
+		color: #4b4b4b;
+	}
+
+	.read-more {
+		display: inline-block;
+		margin-top: 16px;
+		font-weight: 700;
+		color: #456b17;
+		text-decoration: none;
+	}
+
+	.read-more:hover {
+		text-decoration: underline;
+	}
+
+	.empty-message {
+		margin-top: 24px;
+		padding: 20px;
+		background: #fff3e4;
+		border-radius: 12px;
+		color: #102810;
+		font-weight: 700;
+	}
+
+	@media (max-width: 750px) {
+		.page {
+			margin: 50px auto;
+			padding: 18px;
+		}
+
+		.search-card {
+			grid-template-columns: 1fr;
+		}
+
+		.search-content {
+			padding: 22px;
+		}
+
+		.search-image {
+			min-height: 210px;
+		}
 	}
 </style>
