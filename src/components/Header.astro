@@ -1,3 +1,5 @@
+
+```astro
 ---
 const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
 
@@ -6,6 +8,17 @@ const isActive = (path: string) => {
 	return currentPath === path || currentPath.startsWith(`${path}/`);
 };
 ---
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+	<iframe
+		src="https://www.googletagmanager.com/ns.html?id=GTM-MQV97NFN"
+		height="0"
+		width="0"
+		style="display:none;visibility:hidden"
+	></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 <header class="site-header">
 	<a class="brand" href="/">
@@ -229,3 +242,5 @@ const isActive = (path: string) => {
 		}
 	}
 </style>
+
+```
