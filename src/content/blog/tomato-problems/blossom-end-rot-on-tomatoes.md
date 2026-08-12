@@ -294,7 +294,7 @@ Cherry and grape tomatoes are usually less affected.
 
 This does not mean you should avoid Roma or beefsteak tomatoes completely. It just means they need more careful watering and soil management.
 
-For help choosing easier or more reliable tomato types, read: [Best Tomato Varieties for Home Gardens](/blog/growing-guides/tomato-varieties/best-varieties-for-gardens).
+For help choosing easier or more reliable tomato types, read: [Best Tomato Varieties for Home Gardens](/blog/growing-guides/best-varieties-for-gardens).
 
 ## Blossom End Rot vs Other Tomato Problems
 
