@@ -279,7 +279,7 @@ For indeterminate tomatoes, use at least a **15 gallon grow bag** if possible. A
 
 You will also need tall stakes, strong cages, a trellis, or a string support system.
 
-For more help choosing varieties, read: [Best Tomato Varieties for Home Gardens](/blog/growing-guides/tomato-varieties/best-varieties-for-gardens).
+For more help choosing varieties, read: [Best Tomato Varieties for Home Gardens](/blog/growing-guides/best-varieties-for-gardens).
 
 ## Best Tomato Types for Grow Bags
 
