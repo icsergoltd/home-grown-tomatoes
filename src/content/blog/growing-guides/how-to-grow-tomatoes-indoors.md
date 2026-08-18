@@ -14,9 +14,78 @@ Tomato plants need strong light, warm temperatures, enough root space, regular w
 
 The easiest way to succeed is to choose a **compact tomato variety**, grow it in a well-drained container, place it under a strong grow light, and keep the potting mix evenly moist.
 
+With the right setup, you can grow tomatoes indoors even when you do not have a garden, balcony, greenhouse, or suitable outdoor growing season.
+
+## Contents
+
+- [Quick Answer: How Do You Grow Tomatoes Indoors?](#quick-answer)
+- [Can You Really Grow Tomatoes Indoors?](#can-you-really-grow-tomatoes-indoors)
+- [Choose the Right Tomato Variety for Indoors](#choose-the-right-tomato-variety-for-indoors)
+  - [Good types of tomatoes for indoor growing](#good-types-of-tomatoes-for-indoor-growing)
+  - [Indoor-friendly tomato varieties](#indoor-friendly-tomato-varieties)
+- [Determinate vs Indeterminate Tomatoes Indoors](#determinate-vs-indeterminate-tomatoes-indoors)
+  - [Determinate tomatoes](#determinate-tomatoes)
+  - [Indeterminate tomatoes](#indeterminate-tomatoes)
+- [Indoor Tomatoes Need Plenty of Light](#indoor-tomatoes-need-plenty-of-light)
+  - [Can you grow tomatoes on a windowsill?](#can-you-grow-tomatoes-on-a-windowsill)
+- [What Grow Light Is Best for Indoor Tomatoes?](#what-grow-light-is-best-for-indoor-tomatoes)
+  - [How long should grow lights stay on?](#how-long-should-grow-lights-stay-on)
+  - [How close should the light be?](#how-close-should-the-light-be)
+- [Keep Indoor Tomatoes Warm](#keep-indoor-tomatoes-warm)
+- [Give the Plants Some Airflow](#give-the-plants-some-airflow)
+- [Choose the Right Container](#choose-the-right-container)
+  - [Drainage holes are essential](#drainage-holes-are-essential)
+- [Use Potting Mix, Not Garden Soil](#use-potting-mix-not-garden-soil)
+- [How to Start Indoor Tomatoes from Seed](#how-to-start-indoor-tomatoes-from-seed)
+  - [Step 1: Sow the seeds](#step-1-sow-the-seeds)
+  - [Step 2: Keep them warm for germination](#step-2-keep-them-warm-for-germination)
+  - [Step 3: Give seedlings strong light immediately](#step-3-give-seedlings-strong-light-immediately)
+  - [Step 4: Pot them on](#step-4-pot-them-on)
+- [Can You Start with a Young Tomato Plant Instead?](#can-you-start-with-a-young-tomato-plant-instead)
+- [How to Water Tomatoes Indoors](#how-to-water-tomatoes-indoors)
+- [How to Feed Indoor Tomato Plants](#how-to-feed-indoor-tomato-plants)
+- [Indoor Tomato Flowers Need Help with Pollination](#indoor-tomato-flowers-need-help-with-pollination)
+  - [The simple shake method](#the-simple-shake-method)
+  - [Use a fan](#use-a-fan)
+  - [Use an electric toothbrush](#use-an-electric-toothbrush)
+- [Support the Plant Before It Gets Heavy](#support-the-plant-before-it-gets-heavy)
+- [Should You Prune Indoor Tomato Plants?](#should-you-prune-indoor-tomato-plants)
+  - [Compact and determinate tomatoes](#compact-and-determinate-tomatoes)
+  - [Indeterminate tomatoes](#pruning-indeterminate-tomatoes)
+- [How to Keep an Indoor Tomato Plant Compact](#how-to-keep-an-indoor-tomato-plant-compact)
+- [Common Problems When Growing Tomatoes Indoors](#common-problems-when-growing-tomatoes-indoors)
+  - [Leggy growth](#leggy-growth)
+  - [Lots of leaves but no flowers](#lots-of-leaves-but-no-flowers)
+  - [Flowers fall off without producing tomatoes](#flowers-fall-off-without-producing-tomatoes)
+  - [Yellow leaves](#yellow-leaves)
+  - [Blossom end rot](#blossom-end-rot)
+  - [Fruit splitting](#fruit-splitting)
+  - [Fungus gnats](#fungus-gnats)
+  - [Aphids and whiteflies](#aphids-and-whiteflies)
+- [How Long Do Indoor Tomatoes Take to Produce Fruit?](#how-long-do-indoor-tomatoes-take-to-produce-fruit)
+- [When to Harvest Indoor Tomatoes](#when-to-harvest-indoor-tomatoes)
+- [Can You Grow Tomatoes Indoors All Year?](#can-you-grow-tomatoes-indoors-all-year)
+- [A Simple Indoor Tomato Setup for Beginners](#a-simple-indoor-tomato-setup-for-beginners)
+- [Indoor Tomato Growing Checklist](#indoor-tomato-growing-checklist)
+- [Frequently Asked Questions](#frequently-asked-questions)
+  - [Do tomatoes grow well indoors?](#do-tomatoes-grow-well-indoors)
+  - [Do indoor tomatoes need a grow light?](#do-indoor-tomatoes-need-a-grow-light)
+  - [How many hours of light do indoor tomatoes need?](#how-many-hours-of-light-do-indoor-tomatoes-need)
+  - [What is the best tomato for indoor growing?](#what-is-the-best-tomato-for-indoor-growing)
+  - [What size pot does an indoor tomato need?](#what-size-pot-does-an-indoor-tomato-need)
+  - [Do you need to hand-pollinate indoor tomatoes?](#do-you-need-to-hand-pollinate-indoor-tomatoes)
+  - [Can I grow tomatoes indoors in winter?](#can-i-grow-tomatoes-indoors-in-winter)
+  - [Why is my indoor tomato flowering but not producing fruit?](#why-is-my-indoor-tomato-flowering-but-not-producing-fruit)
+- [Final Thoughts](#final-thoughts)
+
+<a id="quick-answer"></a>
+
+## Quick Answer: How Do You Grow Tomatoes Indoors?
+
 > **Quick answer:** Choose a dwarf, micro-dwarf, patio, or other compact tomato variety. Give it around **12–16 hours of strong light each day**, keep it warm, grow it in a container with drainage holes, water when the top 2–3 cm (about 1 inch) of potting mix feels dry, feed regularly once it is established, and gently shake the flowers to help pollination.
 
-With the right setup, you can grow tomatoes indoors even when you do not have a garden, balcony, greenhouse, or suitable outdoor growing season.
+
+<a id="can-you-really-grow-tomatoes-indoors"></a>
 
 ## Can You Really Grow Tomatoes Indoors?
 
@@ -37,6 +106,8 @@ That means you normally need to replace them with:
 
 Once you understand those requirements, indoor tomato growing becomes much easier.
 
+<a id="choose-the-right-tomato-variety-for-indoors"></a>
+
 ## Choose the Right Tomato Variety for Indoors
 
 ![Compact dwarf tomato compared with a tall indeterminate tomato grown indoors](/images/growing-guides/how-to-grow-tomatoes-indoors/how-to-grow-tomatoes-indoors-2-compact-varieties.webp)
@@ -50,6 +121,8 @@ Almost any tomato can technically be grown in a container indoors, but that does
 Large indeterminate tomatoes can continue growing for many months and may become several feet tall. They need strong support, powerful lighting, regular pruning, and considerably more space.
 
 For most homes, **dwarf, micro-dwarf, patio, and compact determinate tomatoes are much easier**.
+
+<a id="good-types-of-tomatoes-for-indoor-growing"></a>
 
 ### Good types of tomatoes for indoor growing
 
@@ -65,6 +138,8 @@ Look for seed packets or plants described as:
 
 These plants usually stay shorter and are easier to position beneath a grow light.
 
+<a id="indoor-friendly-tomato-varieties"></a>
+
 ### Indoor-friendly tomato varieties
 
 Examples commonly grown in small spaces include:
@@ -79,9 +154,13 @@ Availability differs between countries, so do not worry if you cannot find those
 
 A healthy compact tomato that fits beneath your lights will usually be a much better indoor plant than a vigorous variety that quickly outgrows the space.
 
+<a id="determinate-vs-indeterminate-tomatoes-indoors"></a>
+
 ## Determinate vs Indeterminate Tomatoes Indoors
 
 Tomatoes are commonly divided into two growth habits.
+
+<a id="determinate-tomatoes"></a>
 
 ### Determinate tomatoes
 
@@ -97,6 +176,8 @@ They are usually the easiest choice indoors because they:
 
 Many dwarf and patio tomatoes fall into this general group, although individual varieties can behave differently.
 
+<a id="indeterminate-tomatoes"></a>
+
 ### Indeterminate tomatoes
 
 Indeterminate tomatoes continue growing and producing new stems, flowers, and fruit as long as conditions remain suitable.
@@ -111,6 +192,8 @@ They can be grown indoors, but they require more work. You will normally need:
 - some pruning to control the plant
 
 If this is your first attempt at growing tomatoes indoors, start with a compact plant. You can always experiment with larger vining varieties later.
+
+<a id="indoor-tomatoes-need-plenty-of-light"></a>
 
 ## Indoor Tomatoes Need Plenty of Light
 
@@ -129,6 +212,8 @@ A tomato receiving too little light often becomes:
 
 This stretched growth is often called **legginess**.
 
+<a id="can-you-grow-tomatoes-on-a-windowsill"></a>
+
 ### Can you grow tomatoes on a windowsill?
 
 Sometimes, but a window alone is not always enough.
@@ -138,6 +223,8 @@ A large, unobstructed, south-facing window can provide useful natural light, esp
 A sunny window is therefore best treated as useful extra light rather than assuming it will always support heavy fruit production.
 
 For reliable indoor growing, especially through autumn and winter, a grow light is usually the safer choice.
+
+<a id="what-grow-light-is-best-for-indoor-tomatoes"></a>
 
 ## What Grow Light Is Best for Indoor Tomatoes?
 
@@ -151,6 +238,8 @@ You do not necessarily need a specialist commercial greenhouse lamp, but the lig
 
 When choosing a light, look for one designed for **vegetables, flowering plants, or full-cycle plant growth**.
 
+<a id="how-long-should-grow-lights-stay-on"></a>
+
 ### How long should grow lights stay on?
 
 A useful starting point is around **12–16 hours of strong light per day**.
@@ -158,6 +247,8 @@ A useful starting point is around **12–16 hours of strong light per day**.
 Tomatoes also benefit from a regular dark period, so do not leave the lights running continuously for 24 hours.
 
 A plug-in timer makes this much easier. For example, you can set the lights to turn on every morning and switch off automatically in the evening.
+
+<a id="how-close-should-the-light-be"></a>
 
 ### How close should the light be?
 
@@ -174,6 +265,8 @@ Then watch the plant:
 - If growth is compact, green, and sturdy, the light level is probably much better.
 
 Raise the fixture as the tomato grows so the top leaves do not grow into it.
+
+<a id="keep-indoor-tomatoes-warm"></a>
 
 ## Keep Indoor Tomatoes Warm
 
@@ -195,6 +288,8 @@ Keep tomato plants away from:
 
 A fairly stable room temperature is usually easier for indoor tomatoes than repeated swings between very hot and very cold conditions.
 
+<a id="give-the-plants-some-airflow"></a>
+
 ## Give the Plants Some Airflow
 
 Outdoor tomato plants are constantly moved by air. Indoors, the air around a plant can remain almost completely still.
@@ -214,6 +309,8 @@ Air circulation can:
 Run a small fan nearby for part of the day or use a low setting if the room is very still.
 
 Do not point a powerful fan directly at the plant from close range, as this can dry the potting mix and foliage unnecessarily quickly.
+
+<a id="choose-the-right-container"></a>
 
 ## Choose the Right Container
 
@@ -239,6 +336,8 @@ A larger pot generally gives you:
 
 If you are unsure what size or material to use, our guide to the [best pots for tomato plants](/blog/growing-guides/best-pots-for-tomato-plants) explains container size, drainage, materials, and self-watering options in more detail.
 
+<a id="drainage-holes-are-essential"></a>
+
 ### Drainage holes are essential
 
 Never grow a tomato in a decorative indoor pot with no way for excess water to escape.
@@ -248,6 +347,8 @@ The container should have drainage holes in the bottom and a tray or saucer unde
 Water should be able to move through the root zone and drain away rather than collecting around the roots.
 
 If water remains in the saucer after watering, empty it rather than leaving the pot standing in water for long periods.
+
+<a id="use-potting-mix-not-garden-soil"></a>
 
 ## Use Potting Mix, Not Garden Soil
 
@@ -269,6 +370,8 @@ You do not need an elaborate homemade recipe to start successfully. A good comme
 
 For a detailed explanation of compost, drainage, pH, and homemade mixes, see our guide to the [best soil for tomatoes in pots](/blog/growing-guides/best-soil-for-tomatoes-in-pots).
 
+<a id="how-to-start-indoor-tomatoes-from-seed"></a>
+
 ## How to Start Indoor Tomatoes from Seed
 
 ![Young tomato seedlings growing indoors beneath an LED grow light](/images/growing-guides/how-to-grow-tomatoes-indoors/how-to-grow-tomatoes-indoors-5-starting-from-seed.webp)
@@ -286,6 +389,8 @@ You will need:
 - warmth
 - strong light once seedlings emerge
 
+<a id="step-1-sow-the-seeds"></a>
+
 ### Step 1: Sow the seeds
 
 Fill your seed tray or small pots with seed-starting mix and moisten it.
@@ -294,11 +399,15 @@ Sow tomato seeds about **6 mm (1/4 inch) deep**, then cover them lightly.
 
 Keep the mix moist but not waterlogged.
 
+<a id="step-2-keep-them-warm-for-germination"></a>
+
 ### Step 2: Keep them warm for germination
 
 Tomato seeds germinate best in warm conditions.
 
 A room around **21–27°C (70–80°F)** usually works well. A seedling heat mat can help in a cool house, but it is not essential if the room is already warm.
+
+<a id="step-3-give-seedlings-strong-light-immediately"></a>
 
 ### Step 3: Give seedlings strong light immediately
 
@@ -308,6 +417,8 @@ This is important because tomato seedlings stretch very quickly when light is we
 
 If you are using a grow light, position it according to the manufacturer's recommendations and adjust it as the seedlings grow.
 
+<a id="step-4-pot-them-on"></a>
+
 ### Step 4: Pot them on
 
 Once the seedlings have developed true leaves and are growing strongly, move them into larger pots as needed.
@@ -315,6 +426,8 @@ Once the seedlings have developed true leaves and are growing strongly, move the
 Tomatoes can produce additional roots from buried sections of stem. When transplanting a leggy seedling, you can therefore plant it somewhat deeper than it was growing before, provided you remove any leaves that would otherwise be buried.
 
 Eventually, move the plant into its final container before it becomes badly root-bound.
+
+<a id="can-you-start-with-a-young-tomato-plant-instead"></a>
 
 ## Can You Start with a Young Tomato Plant Instead?
 
@@ -329,6 +442,8 @@ Look for words such as **dwarf, patio, bush, compact, determinate, or container 
 Inspect the plant before bringing it indoors. Avoid plants with obvious pests, sticky leaves, extensive yellowing, or damaged growing tips.
 
 Introducing pests on a new plant is much easier than removing them from a collection of indoor plants later.
+
+<a id="how-to-water-tomatoes-indoors"></a>
 
 ## How to Water Tomatoes Indoors
 
@@ -356,6 +471,8 @@ Indoor conditions vary enormously, so there is no reliable rule such as "water e
 
 Our full guide on [how often to water tomatoes in pots](/blog/growing-guides/how-often-to-water-tomatoes-in-pots) explains how to judge moisture and adjust watering as the plant grows.
 
+<a id="how-to-feed-indoor-tomato-plants"></a>
+
 ## How to Feed Indoor Tomato Plants
 
 Tomatoes use a lot of nutrients, and container-grown plants have access only to what is available inside the pot.
@@ -369,6 +486,8 @@ Avoid assuming that more fertiliser means more tomatoes. Overfeeding—especiall
 Once flowers begin appearing, a tomato feed formulated for flowering and fruiting plants is usually more suitable than a nitrogen-heavy general-purpose feed.
 
 Always feed moist compost rather than applying strong liquid fertiliser to a completely dry root ball.
+
+<a id="indoor-tomato-flowers-need-help-with-pollination"></a>
 
 ## Indoor Tomato Flowers Need Help with Pollination
 
@@ -384,6 +503,8 @@ Outdoors, wind and insects help provide the vibration needed to release that pol
 
 Fortunately, hand pollination is easy.
 
+<a id="the-simple-shake-method"></a>
+
 ### The simple shake method
 
 When flowers are fully open, gently tap or shake the flower truss for a few seconds.
@@ -392,9 +513,13 @@ Do this regularly while the plant is flowering.
 
 You are not trying to knock the flowers off. A light vibration is enough.
 
+<a id="use-a-fan"></a>
+
 ### Use a fan
 
 Gentle airflow from a small fan can also move the flowers and improve air circulation at the same time.
+
+<a id="use-an-electric-toothbrush"></a>
 
 ### Use an electric toothbrush
 
@@ -403,6 +528,8 @@ Another method is to hold the vibrating back of an electric toothbrush lightly a
 Do not grind the brush into the flower itself. The goal is simply to create vibration.
 
 If your tomato grows well and produces plenty of flowers but almost no fruit, poor pollination is one of the first things to check—along with light and temperature.
+
+<a id="support-the-plant-before-it-gets-heavy"></a>
 
 ## Support the Plant Before It Gets Heavy
 
@@ -425,9 +552,13 @@ Tie stems loosely so they have room to thicken.
 
 Avoid thin wire or tight knots that can cut into the stem.
 
+<a id="should-you-prune-indoor-tomato-plants"></a>
+
 ## Should You Prune Indoor Tomato Plants?
 
 That depends on the variety.
+
+<a id="compact-and-determinate-tomatoes"></a>
 
 ### Compact and determinate tomatoes
 
@@ -442,6 +573,8 @@ For most compact indoor tomatoes, pruning should mainly involve removing:
 - diseased-looking foliage
 - leaves resting directly on wet potting mix
 
+<a id="pruning-indeterminate-tomatoes"></a>
+
 ### Indeterminate tomatoes
 
 Indeterminate plants usually need more training.
@@ -449,6 +582,8 @@ Indeterminate plants usually need more training.
 You can remove selected suckers—the shoots that appear where a leaf joins the main stem—to control the plant's size and keep growth within the available lighted area.
 
 The goal indoors is not to strip the plant bare. It is to maintain a manageable structure with good light and airflow.
+
+<a id="how-to-keep-an-indoor-tomato-plant-compact"></a>
 
 ## How to Keep an Indoor Tomato Plant Compact
 
@@ -465,6 +600,8 @@ A few habits can keep the plant easier to manage:
 
 Trying to control a naturally huge tomato by constant heavy pruning is much harder than simply choosing a compact cultivar at the beginning.
 
+<a id="common-problems-when-growing-tomatoes-indoors"></a>
+
 ## Common Problems When Growing Tomatoes Indoors
 
 ![Common indoor tomato problems including leggy growth, yellow leaves, blossom end rot and fungus gnats](/images/growing-guides/how-to-grow-tomatoes-indoors/how-to-grow-tomatoes-indoors-9-common-problems.webp)
@@ -473,11 +610,15 @@ Trying to control a naturally huge tomato by constant heavy pruning is much hard
 
 Indoor tomatoes avoid some outdoor problems, but they are not completely pest- or disease-free.
 
+<a id="leggy-growth"></a>
+
 ### Leggy growth
 
 **Likely cause:** Not enough light.
 
 Move the plant closer to an appropriate grow light, increase light intensity if possible, or upgrade to a stronger fixture.
+
+<a id="lots-of-leaves-but-no-flowers"></a>
 
 ### Lots of leaves but no flowers
 
@@ -485,17 +626,23 @@ Move the plant closer to an appropriate grow light, increase light intensity if 
 
 Make sure the plant receives strong light and avoid overfeeding with nitrogen-heavy fertiliser.
 
+<a id="flowers-fall-off-without-producing-tomatoes"></a>
+
 ### Flowers fall off without producing tomatoes
 
 **Possible causes:** Temperature stress, weak light, dry conditions, or poor pollination.
 
 Check the temperature, watering, and light level, then gently vibrate open flowers regularly.
 
+<a id="yellow-leaves"></a>
+
 ### Yellow leaves
 
 Yellow leaves can have several causes, including overwatering, poor drainage, nutrient problems, natural ageing of lower leaves, or root stress.
 
 Do not automatically add fertiliser. First check whether the potting mix is staying wet for too long and whether the container drains properly.
+
+<a id="blossom-end-rot"></a>
 
 ### Blossom end rot
 
@@ -505,11 +652,15 @@ Irregular water availability is a common contributor because it interferes with 
 
 Keep moisture more consistent rather than repeatedly allowing the root ball to become extremely dry.
 
+<a id="fruit-splitting"></a>
+
 ### Fruit splitting
 
 Tomatoes can split when they take up water rapidly after a dry period.
 
 Again, more consistent moisture is the best starting point.
+
+<a id="fungus-gnats"></a>
 
 ### Fungus gnats
 
@@ -519,6 +670,8 @@ They are encouraged by consistently wet growing media.
 
 Allow the surface to dry somewhat between waterings, improve drainage and airflow, and use yellow sticky traps if necessary.
 
+<a id="aphids-and-whiteflies"></a>
+
 ### Aphids and whiteflies
 
 Check the undersides of leaves and new growth regularly.
@@ -526,6 +679,8 @@ Check the undersides of leaves and new growth regularly.
 If you find pests early, a small infestation is much easier to manage than one that has spread across several indoor plants.
 
 Isolate badly affected plants while you deal with the problem.
+
+<a id="how-long-do-indoor-tomatoes-take-to-produce-fruit"></a>
 
 ## How Long Do Indoor Tomatoes Take to Produce Fruit?
 
@@ -539,6 +694,8 @@ Weak light or cool temperatures can slow development considerably.
 
 If speed matters, choose a compact early-maturing cherry tomato rather than a large beefsteak variety.
 
+<a id="when-to-harvest-indoor-tomatoes"></a>
+
 ## When to Harvest Indoor Tomatoes
 
 Harvest tomatoes when they have developed the mature colour expected for the variety and have begun to soften slightly.
@@ -548,6 +705,8 @@ Red tomatoes should normally be evenly red or close to it. Yellow, orange, purpl
 Fruit should come away from the plant with a gentle twist when ready.
 
 You can also pick tomatoes once they have clearly started changing colour and allow them to finish ripening at room temperature. This can be useful if a branch is overloaded or you need to reduce weight on the plant.
+
+<a id="can-you-grow-tomatoes-indoors-all-year"></a>
 
 ## Can You Grow Tomatoes Indoors All Year?
 
@@ -562,6 +721,8 @@ If you want a more continuous indoor supply, consider **staggering your planting
 Indeterminate plants can continue producing for much longer under favourable indoor conditions, but they also become much larger and require more pruning, support, light, and root space.
 
 For most beginners, several successive compact plants are easier than maintaining one enormous tomato vine indefinitely.
+
+<a id="a-simple-indoor-tomato-setup-for-beginners"></a>
 
 ## A Simple Indoor Tomato Setup for Beginners
 
@@ -587,6 +748,8 @@ Place the plant where accidental water spills will not damage furniture or floor
 
 Start with one plant. Once you understand how quickly the pot dries and how much light the plant needs, expanding to several plants becomes much easier.
 
+<a id="indoor-tomato-growing-checklist"></a>
+
 ## Indoor Tomato Growing Checklist
 
 For healthy indoor tomatoes, make sure you are providing all of the following:
@@ -605,39 +768,59 @@ For healthy indoor tomatoes, make sure you are providing all of the following:
 
 If one of these elements is missing, fix the basic growing condition before looking for complicated solutions.
 
+<a id="frequently-asked-questions"></a>
+
 ## Frequently Asked Questions
+
+<a id="do-tomatoes-grow-well-indoors"></a>
 
 ### Do tomatoes grow well indoors?
 
 They can grow very well indoors when they receive enough light, warmth, root space, water, nutrients, and pollination. Light is usually the biggest challenge.
 
+<a id="do-indoor-tomatoes-need-a-grow-light"></a>
+
 ### Do indoor tomatoes need a grow light?
 
 Not in every situation, but most indoor tomatoes benefit from one. A very sunny window may support growth during bright months, while winter or low-light rooms usually require supplemental lighting for reliable flowering and fruiting.
+
+<a id="how-many-hours-of-light-do-indoor-tomatoes-need"></a>
 
 ### How many hours of light do indoor tomatoes need?
 
 Around **12–16 hours of strong light per day** is a practical starting point when using grow lights. Give the plant a regular dark period as well.
 
+<a id="what-is-the-best-tomato-for-indoor-growing"></a>
+
 ### What is the best tomato for indoor growing?
 
 Dwarf, micro-dwarf, patio, bush, and compact cherry tomatoes are generally the easiest. Tiny Tim, Red Robin, Micro Tom, and Tumbling Tom are examples of compact types often used in small spaces.
+
+<a id="what-size-pot-does-an-indoor-tomato-need"></a>
 
 ### What size pot does an indoor tomato need?
 
 Very small micro-dwarf varieties can use smaller containers, but many ordinary compact tomatoes are easier to grow in around **20–30 litres** of potting mix. Larger indeterminate varieties usually benefit from **30–40 litres or more**.
 
+<a id="do-you-need-to-hand-pollinate-indoor-tomatoes"></a>
+
 ### Do you need to hand-pollinate indoor tomatoes?
 
 You do not need to transfer pollen between separate male and female flowers because tomato flowers are self-fertile. However, gently shaking or vibrating open flowers helps release pollen and can improve fruit set indoors.
+
+<a id="can-i-grow-tomatoes-indoors-in-winter"></a>
 
 ### Can I grow tomatoes indoors in winter?
 
 Yes, but winter light from a window is often too weak on its own. A strong grow light and a warm indoor location make winter growing much more practical.
 
+<a id="why-is-my-indoor-tomato-flowering-but-not-producing-fruit"></a>
+
 ### Why is my indoor tomato flowering but not producing fruit?
 
 Check the light level, temperature, watering, and pollination. Flowers can fail to set fruit when the plant is stressed, poorly lit, too hot or cold, or not receiving enough vibration to release pollen.
+
+<a id="final-thoughts"></a>
 
 ## Final Thoughts
 
