@@ -1,5 +1,5 @@
 ---
-title: How to Grow Tomatoes in a Greenhouse: Beginner’s Guide
+title: "How to Grow Tomatoes in a Greenhouse: Beginner’s Guide"
 description: Learn how to grow tomatoes in a greenhouse, from sowing and planting to watering, feeding, pollination, pruning and common mistakes.
 pubDate: 2026-09-03
 heroImage: /images/growing-guides/how-to-grow-tomatoes-in-a-greenhouse/how-to-grow-tomatoes-in-a-greenhouse-1-hero.webp
