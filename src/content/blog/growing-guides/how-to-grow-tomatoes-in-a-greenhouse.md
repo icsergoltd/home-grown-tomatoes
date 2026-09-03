@@ -387,6 +387,7 @@ Avoid these common greenhouse tomato mistakes:
 - **Planting into cold compost.** Warm air is not enough if the roots are cold.
 - **Overcrowding.** It reduces airflow and makes disease more likely.
 - **Forgetting to ventilate.** A closed greenhouse can overheat very quickly.
+- **Using weak supports.** Heavy fruiting plants can snap, lean or collapse if canes, strings or ties are not strong enough.
 - **Watering erratically.** Drought followed by soaking encourages cracking and blossom-end rot.
 - **Feeding too early or too strongly.** Excess nitrogen encourages leaves instead of fruit.
 - **Not helping pollination.** Still greenhouse air can mean poor fruit set.
