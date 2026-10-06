@@ -1,5 +1,5 @@
 ---
-title: "best raised beds for tomato plants"
+title: "Best Raised Beds For Tomato Plants"
 description: "Compare researched raised beds for tomato plants, including long, compact, round, and U-shaped Vegega metal beds with tomato-specific planning notes."
 pubDate: 2026-10-05
 heroImage: /images/product-reviews/best-raised-beds-for-tomato-plants/best-raised-beds-for-tomato-plants-hero-1.webp
