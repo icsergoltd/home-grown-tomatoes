@@ -2,32 +2,57 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog'))
+	.filter((post) => post.data.tags?.includes('product reviews'))
+	.sort((a, b) => {
+		const aOrder = a.data.order ?? 999;
+		const bOrder = b.data.order ?? 999;
+
+		if (aOrder !== bOrder) {
+			return aOrder - bOrder;
+		}
+
+		return a.data.title.localeCompare(b.data.title);
+	});
+
+const getPostUrl = (post) => `/blog/${post.id.replace(/\.mdx?$/, '')}/`;
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title="Product Reviews - Home Grown Tomatoes" description="Gardening product reviews for tomato growers." />
+		<BaseHead title="Product Reviews - Home Grown Tomatoes" description="Practical product reviews and buying guides for tomato growers." />
 	</head>
 	<body>
 		<Header />
 
 		<main class="page">
 			<h1>Product Reviews</h1>
-			<p>Useful gardening products that can help you grow healthier tomato plants.</p>
+			<p>Compare useful gardening products and find practical options for growing healthier tomato plants.</p>
 
-			<h2>Review Categories</h2>
+			<h2>Product Reviews & Buying Guides</h2>
 
-			<ul>
-				<li>Tomato Fertilisers</li>
-				<li>Tomato Cages and Supports</li>
-				<li>Grow Lights</li>
-				<li>Watering Systems</li>
-				<li>Greenhouses and Covers</li>
-				<li>Gardening Tools</li>
-			</ul>
+			<div class="review-grid">
+				{posts.map((post) => (
+					<a class="review-card" href={getPostUrl(post)}>
+						{post.data.heroImage ? (
+							<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+						) : (
+							<div class="review-placeholder-image">🍅</div>
+						)}
 
-			<p>We focus on practical products that are useful for real home growers.</p>
+						<div>
+							<span>Product Reviews</span>
+							<h3>{post.data.title}</h3>
+							<p>{post.data.description}</p>
+						</div>
+					</a>
+				))}
+			</div>
+
+			<p class="closing">These reviews and buying guides focus on practical products that can help home tomato growers choose the right equipment for their needs.</p>
 		</main>
 
 		<Footer />
@@ -36,8 +61,103 @@ import Footer from '../components/Footer.astro';
 
 <style>
 	.page {
-		max-width: 1000px;
+		max-width: 1100px;
 		margin: 80px auto;
 		padding: 20px;
+	}
+
+	.page h1 {
+		font-size: clamp(2.4rem, 5vw, 4rem);
+		margin-bottom: 16px;
+		color: #102810;
+	}
+
+	.page > p {
+		font-size: 1.15rem;
+		line-height: 1.7;
+		color: #333;
+		max-width: 760px;
+	}
+
+	.page h2 {
+		margin-top: 48px;
+		margin-bottom: 24px;
+		font-size: 2rem;
+		color: #102810;
+	}
+
+	.review-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+		gap: 28px;
+		margin-top: 24px;
+	}
+
+	.review-card {
+		display: block;
+		background: #fffdf8;
+		border-radius: 14px;
+		overflow: hidden;
+		text-decoration: none;
+		color: #102810;
+		box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+		transition:
+			transform 0.2s ease,
+			box-shadow 0.2s ease;
+	}
+
+	.review-card:hover {
+		transform: translateY(-4px);
+		box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+	}
+
+	.review-card img {
+		width: 100%;
+		height: 190px;
+		object-fit: cover;
+		display: block;
+	}
+
+	.review-placeholder-image {
+		width: 100%;
+		height: 190px;
+		background: #f4f1ea;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 4rem;
+	}
+
+	.review-card div:not(.review-placeholder-image) {
+		padding: 22px;
+	}
+
+	.review-card span {
+		display: inline-block;
+		background: #6f9633;
+		color: white;
+		font-weight: 800;
+		font-size: 0.8rem;
+		text-transform: uppercase;
+		letter-spacing: 0.04em;
+		padding: 8px 12px;
+		border-radius: 6px;
+		margin-bottom: 14px;
+	}
+
+	.review-card h3 {
+		font-size: 1.45rem;
+		line-height: 1.15;
+		margin: 0 0 12px;
+	}
+
+	.review-card p {
+		color: #333;
+		line-height: 1.6;
+		margin: 0;
+	}
+
+	.closing {
+		margin-top: 40px;
 	}
 </style>
